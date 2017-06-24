@@ -1,34 +1,81 @@
-require "rubygems"
-require "tmpdir"
+# Source: https://gist.github.com/ace-subido/51e1f12cd29fd94363f0
+require 'fileutils'
 
-require "bundler/setup"
-require "jekyll"
-
-GITHUB_REPONAME = "git@github.com-ray5fjdeci:ray5fjdeci/ray5fjdeci.github.com.git"
-
-desc "Generate blog files"
-task :generate do
-  Jekyll::Site.new(Jekyll.configuration({
-    "source"      => ".",
-    "destination" => "_site"
-  })).process
+def remote_name
+  ENV.fetch("REMOTE_NAME", "origin")
 end
 
-desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
-  Dir.mktmpdir do |tmp|
-    cp_r "_site/.", tmp
-    
-    pwd = Dir.pwd
-    Dir.chdir tmp
+PROJECT_ROOT = `git rev-parse --show-toplevel`.strip
+BUILD_DIR    = File.join(PROJECT_ROOT, "_site")
+USER_PAGE_REF = File.join(BUILD_DIR, ".git/refs/remotes/#{remote_name}/master")
 
-    system "git init"
-    system "git add ."
-    message = "Site updated at #{Time.now.utc}"
-    system "git commit -m #{message.inspect}"
-    system "git remote add origin #{GITHUB_REPONAME}"
-    system "git push origin master --force"
+directory BUILD_DIR
 
-    Dir.chdir pwd
+file USER_PAGE_REF => BUILD_DIR do
+  repo_url = nil
+
+  cd PROJECT_ROOT do
+    repo_url = `git config --get remote.#{remote_name}.url`.strip
   end
-end 
+
+  cd BUILD_DIR do
+    sh "git init"
+    sh "git remote add #{remote_name} #{repo_url}"
+    sh "git fetch #{remote_name}"
+
+    if `git branch -r` =~ /master/
+      sh "git checkout master"
+    else
+      sh "git checkout --orphan master"
+      sh "touch index.html"
+      sh "git add ."
+      sh "git commit -m 'initial master commit'"
+      sh "git push #{remote_name} master"
+    end
+  end
+end
+
+task :prepare_git_remote_in_build_dir => USER_PAGE_REF
+
+task :sync do
+  cd BUILD_DIR do
+    sh "git fetch #{remote_name}"
+    sh "git reset --hard #{remote_name}/master"
+  end
+end
+
+# Prevent accidental publishing before committing changes
+task :not_dirty do
+  puts "***#{ENV['ALLOW_DIRTY']}***"
+  unless ENV['ALLOW_DIRTY']
+    fail "Directory not clean" if /nothing to commit/ !~ `git status`
+  end
+end
+
+desc "Compile all files into the build directory"
+task :build do
+  cd PROJECT_ROOT do
+    sh "bundle exec jekyll build"
+  end
+end
+
+desc "Build and publish to Github User Page"
+task :publish => [:not_dirty, :prepare_git_remote_in_build_dir, :sync, :build] do
+  message = nil
+  suffix = ENV["COMMIT_MESSAGE_SUFFIX"]
+
+  cd PROJECT_ROOT do
+    head = `git log --pretty="%h" -n1`.strip
+    message = ["Site updated to #{head}", suffix].compact.join("\n\n")
+  end
+
+  cd BUILD_DIR do
+    sh 'git add --all'
+    if /nothing to commit/ =~ `git status`
+      puts "No changes to commit."
+    else
+      sh "git commit -m \"#{message}\""
+    end
+    sh "git push #{remote_name} master -f"
+  end
+end
