@@ -1,2 +1,203 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-24T23:16:41+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
-</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-25T18:33:45+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+</subtitle><entry><title type="html">Finding An Idea</title><link href="https://yazin.co/finding-an-idea" rel="alternate" type="text/html" title="Finding An Idea" /><published>2017-06-25T00:00:00+03:00</published><updated>2017-06-25T00:00:00+03:00</updated><id>https://yazin.co/finding-an-idea</id><content type="html" xml:base="https://yazin.co/finding-an-idea">&lt;h1 id=&quot;getting-an-idea&quot;&gt;Getting an idea&lt;/h1&gt;
+
+&lt;p&gt;Finding something to work on can be daunting. When you choose to work on something, you’re also choosing &lt;em&gt;not&lt;/em&gt; to work on countless other things. The FOMO beast in me wreaks havoc at the mere mention of such a quandary.&lt;/p&gt;
+
+&lt;p&gt;So what do I do? How can I take a decision — the right decision — at a time when there are so many things going on in so many different fields. For a split second, I want to dive into all of them: Biotechnology, Nutrition, Self-driving cars, Machine Learning, Nanotechnology, Bitcoin, Drones and so many more! There’s so much to learn, and so &lt;em&gt;little&lt;/em&gt; time! (It doesn’t help that I’m addicted to learning, and enjoy it immensely — even for it’s own sake).&lt;/p&gt;
+
+&lt;p&gt;Once I come back to my senses, I realize that’s why it’s crucial to have a framework for making decisions: a plan, based on a &lt;em&gt;key insight&lt;/em&gt; . Similar to how Jeff Bezos, all those years ago, decided that books would be a great foundation for starting an eCommerce company, since there are way too many titles to keep under one roof: since variety is key, this lead to the ultimate defensible business.&lt;/p&gt;
+
+&lt;p&gt;It’s so simple — but &lt;em&gt;only&lt;/em&gt; in retrospect. The idea now is to come up with such insights looking forward, and building a defensible business upon a key insight — essentially, to pull a “Jeff Bezos”.&lt;/p&gt;
+
+&lt;h1 id=&quot;approach&quot;&gt;Approach&lt;/h1&gt;
+
+&lt;p&gt;The high-level approach is a simple one:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Get as many ideas as possible. The more, the merrier.&lt;/li&gt;
+  &lt;li&gt;Mercilessly kill the bad ideas. Oh, and make sure you do it quickly and painlessly.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The rest of this post will include a framework I devised for brainstorming ideas based on my unique experiences and interests. The approach is one that can be generalized to your case, with a little bit of self-awareness.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-alot-of-ideas&quot;&gt;Getting alot of ideas&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-obvious-way-brainstorming&quot;&gt;The obvious way (Brainstorming)&lt;/h3&gt;
+
+&lt;p&gt;The most obvious way to generate alot of ideas is to just do a brain-dump. Grab a bunch of sticky notes, a marker and write out as many ideas as you can in 5 minutes. The limitation with this approach though is that the results are inconsistent — and the ideas you get are largely influenced by whatever it is your brain was busy thinking about &lt;em&gt;at that specific time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-methodical-way&quot;&gt;The methodical way&lt;/h3&gt;
+
+&lt;p&gt;Because of the limitations of the first method, I decided to also use a more methodical approach for completeness.&lt;/p&gt;
+
+&lt;p&gt;The rest of the post describes this methodical approach in detail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Considerations for finding a business idea:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ride a Technological Wave&lt;/li&gt;
+  &lt;li&gt;My Background &amp;amp; Expertise&lt;/li&gt;
+  &lt;li&gt;Consider Regional Challenges&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;-ride-a-technological-wave&quot;&gt;① Ride a Technological Wave&lt;/h4&gt;
+
+&lt;p&gt;There are some technologies today that are going to fundamentally change how existing businesses operate. This is the perfect time to pick those up, understand the implications that they might have on incumbents and act accordingly.&lt;/p&gt;
+
+&lt;p&gt;To be thorough about this would require exhaustive study of all technological changes, and a detailed dive into each one to understand how it might affect existing markets.&lt;/p&gt;
+
+&lt;p&gt;VCs are perfectly positioned to write about these things, since they are on the receiving end of many startup proposals (many of which are built on top of existing technological waves).&lt;/p&gt;
+
+&lt;p&gt;We can benefit from their insight here to help us get from a broad matrix of markets and technologies to a more narrowly focused list that I can then select from.&lt;/p&gt;
+
+&lt;p&gt;Some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ben Evans (click to expand)
+    &lt;ul&gt;
+      &lt;li&gt;Machine Learning&lt;/li&gt;
+      &lt;li&gt;Electric &amp;amp; Autonomous cars&lt;/li&gt;
+      &lt;li&gt;Virtual &amp;amp; Mixed reality&lt;/li&gt;
+      &lt;li&gt;E-commerce vs Physical stores&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.foundrygroup.com/themes/&quot;&gt;Brad Feld&lt;/a&gt; ( &lt;a href=&quot;http://www.feld.com/archives/2012/12/ignore-trends-and-predictions.html&quot;&gt;here&lt;/a&gt; , and &lt;a href=&quot;http://www.foundrygroup.com/blog/2008/03/what-is-thematic-investing/&quot;&gt;here&lt;/a&gt; )&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/16-things/&quot;&gt;a16z&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Popular trends:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/sensorification-of-the-enterprise/&quot;&gt;Sensorification of the Enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/machine-learning-big-data/&quot;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/the-full-stack-startup/&quot;&gt;Full stack Startup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://a16z.com/2015/01/22/containers/&quot;&gt;Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/security/&quot;&gt;Security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://a16z.com/2015/01/22/online-marketplaces/&quot;&gt;Marketplaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/bitcoin-and-blockchain/&quot;&gt;Bitcoin &amp;amp; Blockchain&lt;/a&gt; ( &lt;a href=&quot;http://a16z.com/2014/01/21/why-bitcoin-matters-2/&quot;&gt;here&lt;/a&gt; too)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/cloud-client-computing/&quot;&gt;Cloud-client computing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/digital-health/&quot;&gt;Digital Health&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/online-video/&quot;&gt;Online video &amp;amp; advertising&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/crowdfunding/&quot;&gt;Crowdfunding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/insurance/&quot;&gt;Insurance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/internet-of-things/&quot;&gt;Internet of Things&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://a16z.com/2015/01/22/devops/&quot;&gt;DevOps&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ycombinator.com/rfs/&quot;&gt;YC RFS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Energy&lt;/li&gt;
+  &lt;li&gt;A.I.&lt;/li&gt;
+  &lt;li&gt;Robotics&lt;/li&gt;
+  &lt;li&gt;Biotech&lt;/li&gt;
+  &lt;li&gt;Healthcare&lt;/li&gt;
+  &lt;li&gt;Pharmaceuticals&lt;/li&gt;
+  &lt;li&gt;Education&lt;/li&gt;
+  &lt;li&gt;Human Augmentation&lt;/li&gt;
+  &lt;li&gt;VR and AR&lt;/li&gt;
+  &lt;li&gt;Transportation &amp;amp; Housing&lt;/li&gt;
+  &lt;li&gt;One Million Jobs&lt;/li&gt;
+  &lt;li&gt;Programming Tools&lt;/li&gt;
+  &lt;li&gt;Hollywood 2.0&lt;/li&gt;
+  &lt;li&gt;Diversity&lt;/li&gt;
+  &lt;li&gt;Enterprise Software&lt;/li&gt;
+  &lt;li&gt;Financial Services&lt;/li&gt;
+  &lt;li&gt;Computer Security&lt;/li&gt;
+  &lt;li&gt;Global Health Non profits&lt;/li&gt;
+  &lt;li&gt;Underserved Communities&lt;/li&gt;
+  &lt;li&gt;Food and Farming&lt;/li&gt;
+  &lt;li&gt;Mass Media&lt;/li&gt;
+  &lt;li&gt;Improving Democracy&lt;/li&gt;
+  &lt;li&gt;Future of Work&lt;/li&gt;
+  &lt;li&gt;News&lt;/li&gt;
+  &lt;li&gt;Water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;-my-background--expertise&quot;&gt;② My Background &amp;amp; Expertise&lt;/h4&gt;
+
+&lt;p&gt;The ideal startup will build on my strengths — both industry-specific and otherwise. While it’s certainly possible to excel in a field I have no experience in (I knew nothing about credit cards before White), it’s preferable to choose one that I know well.&lt;/p&gt;
+
+&lt;p&gt;Let’s take stock of what areas I’m good at, and have experience in:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gemeasurement.com/condition-monitoring-and-protection&quot;&gt;Condition Monitoring &amp;amp; Vibration Monitoring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lean Six Sigma&lt;/li&gt;
+  &lt;li&gt;SAP&lt;/li&gt;
+  &lt;li&gt;The Print Industry (print.bh)&lt;/li&gt;
+  &lt;li&gt;Fine Art Canvas (canvas.bh)&lt;/li&gt;
+  &lt;li&gt;Online Payments &amp;amp; Credit Cards (whitepayments.com)&lt;/li&gt;
+  &lt;li&gt;Drones (Teleport)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These span multiple industries (⚡️ Energy, 🖨 Print, 💲 Payments) and disciplines (Engineering, Quality, Founder, Product).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;My Strengths:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I learn &lt;em&gt;quickly&lt;/em&gt; . I savor the acceleration in learning (going from 0% knowledge about something→80% of it)&lt;/li&gt;
+  &lt;li&gt;I have an innate ability to simplify complicated things.&lt;/li&gt;
+  &lt;li&gt;I know how to plan, and plan well.&lt;/li&gt;
+  &lt;li&gt;Open to feedback, in all it’s forms. No matter how harsh.&lt;/li&gt;
+  &lt;li&gt;I’m &lt;em&gt;complexities&lt;/em&gt; worst enemy. I can take super complicated things, and break them down into bite-size, easy-to-understand chunks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;My Weaknesses:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I hate slogging through the remaining 20% (from 80→100%).&lt;/li&gt;
+  &lt;li&gt;I can make the high-level plan, and execute the big juicy parts of it — but won’t comb through the minutiae.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;-consider-regional-challenges&quot;&gt;③ Consider Regional Challenges&lt;/h4&gt;
+
+&lt;p&gt;Not all of this talk about technological change will influence the world equally. The Middle East is still behind the US in some fundamental aspects of doing business e.g. logistics, payments and (perhaps as a result) eCommerce.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;All problems must be verified&lt;/em&gt; (we assume they are true, but they might not be)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;High mobile penetration, low availability of &lt;em&gt;physical&lt;/em&gt; online services (Uber/Careem are notable exceptions). No clear market leader equivalent of eBay, Shyp, TaskRabbit, Stripe (or underlying ACH/SEPA for that matter). 
+Recent entrants: Instashop (=Instacart).&lt;/li&gt;
+  &lt;li&gt;Key learning from my time in eCommerce: mobile is exploding, and people will buy online where there’s an incentive to do so.&lt;/li&gt;
+  &lt;li&gt;Financial inclusion: reaching the X-million people that don’t have bank accounts or credit cards&lt;/li&gt;
+  &lt;li&gt;Lack of credit history for individuals and companies in the region&lt;/li&gt;
+  &lt;li&gt;Lack of delivery infrastructure to non-core cities in Saudi Arabia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Industry-specific challenges&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;⚡️ Energy
+    &lt;ul&gt;
+      &lt;li&gt;The UAE has the largest per capita carbon footprint in the world [ &lt;a href=&quot;https://home.kpmg.com/ae/en/home/insights/2016/09/goinggreen-renewableopportunitiesintheuae.html&quot;&gt;Source&lt;/a&gt; , 2016]&lt;/li&gt;
+      &lt;li&gt;Dependence on oil [ &lt;a href=&quot;http://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Addiction-Could-Spell-Disaster.html&quot;&gt;Source&lt;/a&gt; , 2015]&lt;/li&gt;
+      &lt;li&gt;Cost of renewables without subsidies near parity with fossil fuel in the UAE [ &lt;a href=&quot;https://www.ethz.ch/content/dam/ethz/special-interest/mavt/energy-science-center-dam/events/the-global-energy-challenge/steven-hartman-ge-presentation.pdf&quot;&gt;Source&lt;/a&gt; , Pg8, 2017]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;🖨 Print
+    &lt;ul&gt;
+      &lt;li&gt;Print industry in Middle East is … booming? [ &lt;a href=&quot;http://www.smitherspira.com/news/2017/march/middle-east-presents-new-boom-market-for-print&quot;&gt;Source&lt;/a&gt; , 2017]. They still have to contend with lower and lower prices though.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;💲 Payments
+    &lt;ul&gt;
+      &lt;li&gt;Still no way for individuals to process online payments, without having to get a Trade License (for AED10k+). Stripe users &lt;a href=&quot;https://support.stripe.com/questions/sole-proprietor-without-federal-ein&quot;&gt;can&lt;/a&gt; .&lt;/li&gt;
+      &lt;li&gt;No Payouts infrastructure available for doing cheap/free bank transfers across the UAE (nevermind the region)&lt;/li&gt;
+      &lt;li&gt;Transfers across the region go through SWIFT, and cost ~AED50/transfer (plus currency exchange fees)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;putting-it-all-together&quot;&gt;Putting it all together&lt;/h3&gt;
+
+&lt;p&gt;To make this all work, I’ll start by:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Matching technologies up with my strengths/background&lt;/li&gt;
+  &lt;li&gt;Tying the resulting list with the list of the region’s problems to check suitability&lt;/li&gt;
+  &lt;li&gt;Find a key insight for each remaining idea _ (where possible)_&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now, I also want to leave room for random ideas that might not necessarily have surfaced through any of the previous steps. It’s totally fine to not overthink them, as long as we develop a quick way to test these ideas for viability.&lt;/p&gt;</content><author><name></name></author><summary type="html">The first step is finding an idea, one of the most intimidating parts of this whole process. In this post, I describe how I go about thinking about this</summary></entry></feed>
