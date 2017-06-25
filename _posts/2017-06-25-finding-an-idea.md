@@ -2,7 +2,7 @@
 layout: post
 excerpt: >
   The first step is finding an idea, one of the most intimidating parts of this whole process. In
-  this post, I describe how I go about thinking about this &mdash; and what ideas I'm currently considering.
+  this post, I describe how I go about thinking about this
 ---
 # Getting an idea
 
@@ -35,8 +35,8 @@ Put this way, it's actually an advantage to start late, assuming you can reach s
  **Considerations for finding a business idea:** 
 
 1. Ride a Technological Wave
-1. My Background & Expertise
-1. Consider Regional Challenges
+2. My Background & Expertise
+3. Consider Regional Challenges
 
 ## ① Ride a Technological Wave
 
@@ -143,10 +143,10 @@ Not all of this talk about technological change will influence the world equally
 
 - High mobile penetration, low availability of _physical_ online services (Uber/Careem are notable exceptions). No clear market leader equivalent of eBay, Shyp, TaskRabbit, Stripe (or underlying ACH/SEPA for that matter). 
 Recent entrants: Instashop (=Instacart).
-- Key learning from my time at Souq: mobile is exploding, and people will buy online where there's an incentive to do so (Souq proved this during White Friday's). I don't have the data handy; it's in my notes from the Payfort Congress somewhere but we're talking 50%+ of orders via mobile.
-- Financial inclusion: reaching the X-million people that don't have bank accounts or credit cards [Fares G]
-- Lack of credit history for individuals and companies in the region [Fares G]
-- Lack of delivery infrastructure to non-core cities in Saudi Arabia [Fares G]
+- Key learning from my time in eCommerce: mobile is exploding, and people will buy online where there's an incentive to do so.
+- Financial inclusion: reaching the X-million people that don't have bank accounts or credit cards
+- Lack of credit history for individuals and companies in the region
+- Lack of delivery infrastructure to non-core cities in Saudi Arabia
 
  **Industry-specific challenges** 
 
@@ -166,20 +166,13 @@ Recent entrants: Instashop (=Instacart).
 To make this all work, I'll start by:
 
 1. Matching technologies up with my strengths/background
+2. Tying the resulting list with the list of the region's problems to check suitability
+3. Find a key insight for each remaining idea _ (where possible)_ 
 
-  [Ideas](./Ideas-346be6c77b8545419d08d85eed8e3397.md)
-
-1. Tying the resulting list with the list of the region's problems to check suitability
-1. Find a key insight for each remaining idea _ (where possible)_ 
+Now, I also want to leave room for random ideas that might not necessarily have surfaced through any of the previous steps. It's totally fine to not overthink them, as long as we develop a quick way to test these ideas for viability.
 
 # Attributes of the Business
 
 -  **Bootstrapped > Funded.** This means it's imperative to reach cash-flow positive as soon as possible. That means paying customers, from day one. It's the only way you get to own your future. Look for inspiration in [Basecamp](https://m.signalvnoise.com/) , [Nathan Barry](http://nathanbarry.com/) and [Jason Cohen](https://blog.asmartbear.com/) . Also, read [PG's default alive or dead piece](http://paulgraham.com/aord.html) .
   - This inherently suggests that working on software businesses would make more sense to start with. "Physical businesses" (like eCommerce, etc.) require $ for inventory, infrastructure, etc and tend to be capital-intensive.
 -  **Transparency or GTHO.** This isn't your garden variety transparency. I mean complete transparency in everything — from revenue to learnings; the whole 9. I think it's absolutely essential for the reason, and allows you to remain focused on the metrics that matter. That way, you can't lie to yourself about what is/isn't working. Think [Buffer](http://buffer.baremetrics.com) , [Convertkit](http://convertkit.baremetrics.com) .
-
-# What about...
-
-## Competition?
-
-I find that it helps to imagine myself in cave, in isolation of all of the other players in a particular market. I could investigate them to understand their value propositions, and in an attempt to reverse-engineer their assumptions about the market, but I couldn't care less about what they _do_ . It's just too much noise — and most companies don't revisit their initial assumptions about a market very often, if at all. Noises.
