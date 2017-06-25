@@ -2,7 +2,7 @@
 layout: post
 excerpt: >
   The first step is finding an idea, one of the most intimidating parts of this whole process. In
-  this post, I describe how I go about thinking about this
+  this post, I describe how I go about tackling this
 ---
 # Getting an idea
 
