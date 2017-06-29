@@ -1,5 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-29T13:54:02+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
-</subtitle><entry><title type="html">List Of Ideas</title><link href="https://yazin.co/list-of-ideas" rel="alternate" type="text/html" title="List Of Ideas" /><published>2017-06-26T00:00:00+03:00</published><updated>2017-06-26T00:00:00+03:00</updated><id>https://yazin.co/list-of-ideas</id><content type="html" xml:base="https://yazin.co/list-of-ideas">&lt;p&gt;Having &lt;a href=&quot;/finding-an-idea&quot;&gt;talked about how to think about ideas&lt;/a&gt;, the natural next step is to list them down in one place. That’s what this post is about. It includes the results of both thought processes (that I described in the previous post).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-29T16:34:25+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+</subtitle><entry><title type="html">The Goals Idea</title><link href="https://yazin.co/the-goals-idea" rel="alternate" type="text/html" title="The Goals Idea" /><published>2017-06-29T00:00:00+03:00</published><updated>2017-06-29T00:00:00+03:00</updated><id>https://yazin.co/the-goals-idea</id><content type="html" xml:base="https://yazin.co/the-goals-idea">&lt;p&gt;The first idea I’ll be testing is one that I’ve had for a while. The description I had from &lt;a href=&quot;/list-of-ideas&quot;&gt;the Ideas list&lt;/a&gt; is this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The way that large companies propagate high-level goals down from leadership to employees across the company is broken. It ends up becoming a formality, done over Powerpoint slides twice a year (beginning and end, during performance reviews). This is a lost opportunity, one where goals could serve as the glue that ties employees daily work towards a greater company objective. Coupled with transparency, employees can see exactly how they impact the greater goals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;approach-to-validation&quot;&gt;Approach to Validation&lt;/h2&gt;
+
+&lt;h3 id=&quot;business-model-canvas&quot;&gt;Business Model Canvas&lt;/h3&gt;
+
+&lt;p&gt;Since this is the first idea I’ll be validating, I’d like to try out the most obvious method — the infamous Business Model Canvas. So I fill it in like so:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/business-model-canvas-goals-idea.png&quot; alt=&quot;Business Model Canvas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I spent about 30 minutes filling that in (I used &lt;a href=&quot;http://leanstack.com/&quot;&gt;LeanStack&lt;/a&gt; to get it done). Ok, the idea was pretty vague when I started — and now it does seem &lt;em&gt;abit&lt;/em&gt; more concrete.&lt;/p&gt;
+
+&lt;h3 id=&quot;riskiest-assumption&quot;&gt;Riskiest Assumption&lt;/h3&gt;
+
+&lt;p&gt;The next step would be to “validate my riskiest assumption”. I’ll list down all of the assumptions I have going on (aside from the canvas, in it’s entirety):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Large companies still share goals via Powerpoint slides twice a year&lt;/li&gt;
+  &lt;li&gt;Large companies &lt;em&gt;want&lt;/em&gt; transparency in their goals&lt;/li&gt;
+  &lt;li&gt;Employees are incentivized to use the tool and can benefit from it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The challenge I’m sensing in this goal is a greater one — one that relates to product adoption. How the heck am I going to convince a large corporation (one with 1k+ employees) to pay for a tool that doesn’t yet exist — and for a problem that they may not even be aware they have.&lt;/p&gt;
+
+&lt;p&gt;Tall order indeed.&lt;/p&gt;
+
+&lt;p&gt;So that’s our concern then: &lt;strong&gt;do customers know they have a problem?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Since I have no intention of building the product without paying customers lined up, I’m necessarily going to have to start with smaller companies (&amp;lt;100 employees).&lt;/p&gt;
+
+&lt;h3 id=&quot;validate-it&quot;&gt;Validate It&lt;/h3&gt;
+
+&lt;p&gt;In order to test out this assumption, I decided to run some interviews. For this, I primarily relied on &lt;a href=&quot;http://customerdevlabs.com/2013/11/05/how-i-interview-customers/&quot;&gt;Justin Wilcox’s proven interviewing tips&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My process was simple:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Reach out to small businesses (with between 10 - 100 employees)&lt;/li&gt;
+  &lt;li&gt;Interview the Founder/CEO&lt;/li&gt;
+  &lt;li&gt;Analyze results&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To reach out to the founders, I used &lt;a href=&quot;http://mattermark.com&quot;&gt;MatterMark’s dashboard search&lt;/a&gt;. It’s awesome because it lets you search companies by number of employees. I then wrote emails out to the Founder/CEO’s of the first 50 companies on the list. The email address is often firstname@company.domain&lt;/p&gt;
+
+&lt;p&gt;Here’s what one of those emails looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/email-strategy-interview.png&quot; alt=&quot;Email&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I expected to hear back from half of the folks — so about 15 (especially since I offered to compensate them for their time, something I learned from &lt;a href=&quot;https://vimeo.com/74338272&quot;&gt;Jason Cohen&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;I also drafted a few questions that I’d ask in the interview. Here are some of them:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Who defines the strategy for the company?&lt;/li&gt;
+  &lt;li&gt;How is it communicated with the employees?
+    &lt;ul&gt;
+      &lt;li&gt;What tools do you use?&lt;/li&gt;
+      &lt;li&gt;How often is the strategy revisited with the employees to align tasks with larger goals?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was more to guide the discussion — I expected to be asking alot if “why” questions too, to understand what was going on underneath the surface. I did not plan to do &lt;em&gt;any&lt;/em&gt; selling on this call — that would happen later, once we’ve validated that customers are aware of this problem.&lt;/p&gt;
+
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;I had 0 positive responses within 3 days of sending the email out. 5 people replied to kindly say no, they were not interested.&lt;/p&gt;
+
+&lt;p&gt;It’s reasonable to assume that if they really did have a hard time communicating the company strategy throughout the organization, they would’ve replied (barring some sort of email deliverability issue, which I knew was not the case).&lt;/p&gt;
+
+&lt;h3 id=&quot;revisiting-the-business-model-canvas&quot;&gt;Revisiting the Business Model Canvas&lt;/h3&gt;
+
+&lt;p&gt;I went back to my business model canvas, and thought about my definition of early adopter. It was, of course, super-general. Maybe there was some way to narrow it down to a smaller group that face a more severe variant of this problem.&lt;/p&gt;
+
+&lt;p&gt;The ideal group of early adopters:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;have the problem you defined&lt;/li&gt;
+  &lt;li&gt;know they have the problem&lt;/li&gt;
+  &lt;li&gt;are paying to “solve it” (albeit, inadequately)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The folks I’m reaching out to meet none of these criteria (which may be why the acceptance rate is so dismal). Seems like I’ll need to be much more specific about what folks I’m looking for here.&lt;/p&gt;
+
+&lt;p&gt;Let’s define the problem more:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I want to help &lt;strong&gt;entrepreneurs&lt;/strong&gt; solve their &lt;strong&gt;strategy communication&lt;/strong&gt; problem&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I can’t seem to be able to &lt;strong&gt;define&lt;/strong&gt; the problem, and therefore I can’t even begin to fix it. I’ve tried searching for externally observable behaviors that suggest that this problem exists (e.g. “i don’t know &lt;em&gt;what&lt;/em&gt; to work on! too many tasks on &lt;strong&gt;__&lt;/strong&gt;”) on Twitter but couldn’t find anything. I also tried searching for blog posts, etc. and also came up short. So while this problem may seem like it might exist somewhere, I have no conceivable way of detecting (let alone reaching) those that have it.&lt;/p&gt;
+
+&lt;p&gt;Hence, there’s nothing more to do here.&lt;/p&gt;
+
+&lt;h2 id=&quot;verdict&quot;&gt;Verdict&lt;/h2&gt;
+
+&lt;p&gt;Experiment failed, because I was unable to find people that face the purported problem this idea solves.&lt;/p&gt;</content><author><name></name></author><summary type="html">The first idea I’ll be testing is one that I’ve had for a while. The description I had from the Ideas list is this:</summary></entry><entry><title type="html">List Of Ideas</title><link href="https://yazin.co/list-of-ideas" rel="alternate" type="text/html" title="List Of Ideas" /><published>2017-06-26T00:00:00+03:00</published><updated>2017-06-26T00:00:00+03:00</updated><id>https://yazin.co/list-of-ideas</id><content type="html" xml:base="https://yazin.co/list-of-ideas">&lt;p&gt;Having &lt;a href=&quot;/finding-an-idea&quot;&gt;talked about how to think about ideas&lt;/a&gt;, the natural next step is to list them down in one place. That’s what this post is about. It includes the results of both thought processes (that I described in the previous post).&lt;/p&gt;
 
 &lt;p&gt;This particular list include a dump of all the technologies that match my background. Essentially:&lt;/p&gt;
 
