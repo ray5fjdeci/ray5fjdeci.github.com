@@ -1,5 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-29T16:45:59+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
-</subtitle><entry><title type="html">The Goals Idea</title><link href="https://yazin.co/the-goals-idea" rel="alternate" type="text/html" title="The Goals Idea" /><published>2017-06-29T00:00:00+03:00</published><updated>2017-06-29T00:00:00+03:00</updated><id>https://yazin.co/the-goals-idea</id><content type="html" xml:base="https://yazin.co/the-goals-idea">&lt;p&gt;The first idea I’ll be testing is one that I’ve had for a while. The description I had from &lt;a href=&quot;/list-of-ideas&quot;&gt;the Ideas list&lt;/a&gt; is this:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-29T20:11:44+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+</subtitle><entry><title type="html">The Gforms Idea</title><link href="https://yazin.co/the-gforms-idea" rel="alternate" type="text/html" title="The Gforms Idea" /><published>2017-06-29T00:00:00+03:00</published><updated>2017-06-29T00:00:00+03:00</updated><id>https://yazin.co/the-gforms-idea</id><content type="html" xml:base="https://yazin.co/the-gforms-idea">&lt;p&gt;Alright, let’s hit another idea and see what we can learn. This one goes like so:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A forms app that works on mobile and is offline. Maybe include an Android widget so you can tap, tap, done.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A subscription service, that offers the ability to submit Google Forms offline. I use GForms alot, and I’m betting there’s others out there that do too (how many there are remains a question that needs answering).&lt;/p&gt;
+
+&lt;p&gt;Having the ability to submit forms offline means people that use it for expense tracking can do so painlessly, and from anywhere — those that use it for any other sort of mobile tracking can do the same. It would be very useful to a small set of people that (a) use Google Forms frequently and (b) are on the move.&lt;/p&gt;
+
+&lt;p&gt;Frankly, I have no idea how the heck people could possibly use this (and indeed, if anyone would want to use this thing) — hence, the experiment. All I know is that there are many, many users of Google products and if even a small subset of those will find this beneficial, then there’s plenty of room to make a business here.&lt;/p&gt;
+
+&lt;h2 id=&quot;approach-to-validation&quot;&gt;Approach to Validation&lt;/h2&gt;
+
+&lt;h3 id=&quot;landing-page&quot;&gt;Landing Page&lt;/h3&gt;
+
+&lt;p&gt;This time I didn’t use the Business Model Canvas, since I’m not sure what the use-case (and hence, the market) is for this product. Instead, I’ll use a landing page showing this feature — and launch it on HackerNews / ProductHunt. That way, I’ll guage the response and create a specific product based on the feedback.&lt;/p&gt;
+
+&lt;p&gt;Essentially, what I’ll do is:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create a simple landing page showing the main feature&lt;/li&gt;
+  &lt;li&gt;Launch it on HackerNews / ProductHunt&lt;/li&gt;
+  &lt;li&gt;Reach out to signups and ask them why they signed up&lt;/li&gt;
+  &lt;li&gt;Create a specific product based on feedback&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Alright, let’s hit another idea and see what we can learn. This one goes like so:</summary></entry><entry><title type="html">The Goals Idea</title><link href="https://yazin.co/the-goals-idea" rel="alternate" type="text/html" title="The Goals Idea" /><published>2017-06-27T00:00:00+03:00</published><updated>2017-06-27T00:00:00+03:00</updated><id>https://yazin.co/the-goals-idea</id><content type="html" xml:base="https://yazin.co/the-goals-idea">&lt;p&gt;The first idea I’ll be testing is one that I’ve had for a while. The description I had from &lt;a href=&quot;/list-of-ideas&quot;&gt;the Ideas list&lt;/a&gt; is this:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The way that large companies propagate high-level goals down from leadership to employees across the company is broken. It ends up becoming a formality, done over Powerpoint slides twice a year (beginning and end, during performance reviews). This is a lost opportunity, one where goals could serve as the glue that ties employees daily work towards a greater company objective. Coupled with transparency, employees can see exactly how they impact the greater goals.&lt;/p&gt;
@@ -50,7 +74,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/email-strategy-interview.png&quot; alt=&quot;Email&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I expected to hear back from half of the folks — so about 15 (especially since I offered to compensate them for their time, something I learned from &lt;a href=&quot;https://vimeo.com/74338272&quot;&gt;Jason Cohen&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I expected to hear back from half of the folks — so about 25 (especially since I offered to compensate them for their time, something I learned from &lt;a href=&quot;https://vimeo.com/74338272&quot;&gt;Jason Cohen&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;I also drafted a few questions that I’d ask in the interview. Here are some of them:&lt;/p&gt;
 
