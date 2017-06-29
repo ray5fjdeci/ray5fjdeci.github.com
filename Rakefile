@@ -55,7 +55,7 @@ end
 desc "Compile all files into the build directory"
 task :build do
   cd PROJECT_ROOT do
-    sh "bundle exec jekyll build"
+    sh "JEKYLL_ENV=production bundle exec jekyll build"
   end
 end
 
