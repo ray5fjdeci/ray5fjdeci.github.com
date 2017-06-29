@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>The Gforms Idea</title>
-  <meta name="description" content="Alright, let’s hit another idea and see what we can learn. This one goes like so:">
+  <meta name="description" content="I use Google Forms alot, primarily to track my finances (and also with calorie counting). One quirk is that they don&#39;t have an offline solution &amp;mdash; I&#39;m w...">
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="https://yazin.co/the-gforms-idea">
@@ -93,15 +93,83 @@
 
 <h3 id="landing-page">Landing Page</h3>
 
-<p>This time I didn’t use the Business Model Canvas, since I’m not sure what the use-case (and hence, the market) is for this product. Instead, I’ll use a landing page showing this feature — and launch it on HackerNews / ProductHunt. That way, I’ll guage the response and create a specific product based on the feedback.</p>
+<p>This time I didn’t use the Business Model Canvas like last time, since I don’t know what the use-case (and hence, the market) is for this product. Instead, I’ll use a landing page showing this feature — and launch it on HackerNews / ProductHunt. That way, I’ll guage the response and create a specific product based on the feedback.</p>
 
 <p>Essentially, what I’ll do is:</p>
-<ul>
+<ol>
   <li>Create a simple landing page showing the main feature</li>
   <li>Launch it on HackerNews / ProductHunt</li>
   <li>Reach out to signups and ask them why they signed up</li>
   <li>Create a specific product based on feedback</li>
+</ol>
+
+<p>I hand-coded the landing page, though that turned out to be a very time-consuming process (especially having to make sure everything looked well on desktop and mobile). It would’ve made more sense to simple use <a href="http://unbounce.com">one</a> <a href="http://instapage.com">of</a> <a href="http://optimizely.com">the</a> <a href="http://wix.com">many</a> landing page tools.</p>
+
+<p>Here’s what I came up with:</p>
+
+<p><img src="/assets/landing-page-gforms.png" alt="Landing Page" /></p>
+
+<p>And once you hit the “Try it” button, you get a simple modal:</p>
+
+<p><img src="/assets/modal-gforms.png" alt="Modal" /></p>
+
+<p>When you press the “How it Works”, it cycles through a series of device screenshots that demonstrate the apps functionality.</p>
+
+<p><img src="/assets/landing-page-gforms-screens.png" alt="Screens" /></p>
+
+<p>The emails are submitted to a Google Firebase database so the whole page is static. I then booked the domain <a href="http://formsapp.me">formsapp.me</a> and put it up (using <a href="https://github.com/dokku/dokku">Dokku</a>, a roll-your-own Heroku solution).</p>
+
+<h3 id="launching-the-experiment">Launching the experiment</h3>
+
+<p>Before launching, I had to set a clear goal for what the target response rate would be.</p>
+
+<p>The figures I put down were:</p>
+<ul>
+  <li>Target visitor count: 1,000 visits</li>
+  <li>Target conversion rate to subscriber: 20% (since it’s free)</li>
 </ul>
+
+<p>With that out of the way, it was time to launch the landing page. I chose HackerNews and ProductHunt as my channels of choice — since that’s where the most likely target customer base lies.</p>
+
+<h4 id="hackernews">HackerNews</h4>
+
+<p>This was simple enough:</p>
+
+<p><img src="/assets/landing-page-gforms-hackernews.png" alt="Hacker News submission" /></p>
+
+<p>I <a href="https://news.ycombinator.com/item?id=14580353">submitted it</a> on Sunday afternoon.</p>
+
+<h4 id="producthunt">ProductHunt</h4>
+
+<p>This was a bit more involved. I had to submit the screenshots of the (make-believe) mobile app along with an icon. I noticed that GIF images were more likely to grab attention, so I made one quickly to go along with the page.</p>
+
+<p>You can find the submission <a href="https://www.producthunt.com/posts/formsapp">here</a>:</p>
+
+<p><img src="/assets/landing-page-gforms-producthunt.png" alt="ProductHunt submission" /></p>
+
+<h2 id="results">Results</h2>
+
+<p>I waited for 24 hours, and then checked Google Analytics for results:</p>
+
+<p><img src="/assets/gforms-analytics-result.png" alt="Google Analytics" /></p>
+
+<p>Not bad. I managed to score 2,000 visits in total after just 1 day. I also checked the database, but that was much less encouraging: I only managed to get 14 emails.</p>
+
+<p>That meant a dismal conversion rate of 14 / 2000 = 0.7% (a far cry from the 20% rate I’d set). And I wasn’t even asking for any money..</p>
+
+<p>Not encouraging.</p>
+
+<p>Still, I decided I’d reach out to the 14 emails and ask them for their feedback. I sent out to the following email to the folks that signed up:</p>
+
+<p><img src="/assets/gforms-email.png" alt="Email" /></p>
+
+<p>I managed to get several responses from the people I reached out, a total of 5 of the 14 responded — and all of them said that they were B (just curious).</p>
+
+<p>Great.</p>
+
+<h2 id="verdict">Verdict</h2>
+
+<p>The numbers have spoken — this idea is officially dead.</p>
 
 
   </div>

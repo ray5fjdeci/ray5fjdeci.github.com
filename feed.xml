@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-29T20:17:00+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-06-29T22:34:50+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin Alirhayim</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
 </subtitle><entry><title type="html">The Gforms Idea</title><link href="https://yazin.co/the-gforms-idea" rel="alternate" type="text/html" title="The Gforms Idea" /><published>2017-06-29T00:00:00+03:00</published><updated>2017-06-29T00:00:00+03:00</updated><id>https://yazin.co/the-gforms-idea</id><content type="html" xml:base="https://yazin.co/the-gforms-idea">&lt;p&gt;Alright, let’s hit another idea and see what we can learn. This one goes like so:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -15,15 +15,83 @@
 
 &lt;h3 id=&quot;landing-page&quot;&gt;Landing Page&lt;/h3&gt;
 
-&lt;p&gt;This time I didn’t use the Business Model Canvas, since I’m not sure what the use-case (and hence, the market) is for this product. Instead, I’ll use a landing page showing this feature — and launch it on HackerNews / ProductHunt. That way, I’ll guage the response and create a specific product based on the feedback.&lt;/p&gt;
+&lt;p&gt;This time I didn’t use the Business Model Canvas like last time, since I don’t know what the use-case (and hence, the market) is for this product. Instead, I’ll use a landing page showing this feature — and launch it on HackerNews / ProductHunt. That way, I’ll guage the response and create a specific product based on the feedback.&lt;/p&gt;
 
 &lt;p&gt;Essentially, what I’ll do is:&lt;/p&gt;
-&lt;ul&gt;
+&lt;ol&gt;
   &lt;li&gt;Create a simple landing page showing the main feature&lt;/li&gt;
   &lt;li&gt;Launch it on HackerNews / ProductHunt&lt;/li&gt;
   &lt;li&gt;Reach out to signups and ask them why they signed up&lt;/li&gt;
   &lt;li&gt;Create a specific product based on feedback&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Alright, let’s hit another idea and see what we can learn. This one goes like so:</summary></entry><entry><title type="html">The Goals Idea</title><link href="https://yazin.co/the-goals-idea" rel="alternate" type="text/html" title="The Goals Idea" /><published>2017-06-27T00:00:00+03:00</published><updated>2017-06-27T00:00:00+03:00</updated><id>https://yazin.co/the-goals-idea</id><content type="html" xml:base="https://yazin.co/the-goals-idea">&lt;p&gt;The first idea I’ll be testing is one that I’ve had for a while. The description I had from &lt;a href=&quot;/list-of-ideas&quot;&gt;the Ideas list&lt;/a&gt; is this:&lt;/p&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I hand-coded the landing page, though that turned out to be a very time-consuming process (especially having to make sure everything looked well on desktop and mobile). It would’ve made more sense to simple use &lt;a href=&quot;http://unbounce.com&quot;&gt;one&lt;/a&gt; &lt;a href=&quot;http://instapage.com&quot;&gt;of&lt;/a&gt; &lt;a href=&quot;http://optimizely.com&quot;&gt;the&lt;/a&gt; &lt;a href=&quot;http://wix.com&quot;&gt;many&lt;/a&gt; landing page tools.&lt;/p&gt;
+
+&lt;p&gt;Here’s what I came up with:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/landing-page-gforms.png&quot; alt=&quot;Landing Page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And once you hit the “Try it” button, you get a simple modal:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/modal-gforms.png&quot; alt=&quot;Modal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you press the “How it Works”, it cycles through a series of device screenshots that demonstrate the apps functionality.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/landing-page-gforms-screens.png&quot; alt=&quot;Screens&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The emails are submitted to a Google Firebase database so the whole page is static. I then booked the domain &lt;a href=&quot;http://formsapp.me&quot;&gt;formsapp.me&lt;/a&gt; and put it up (using &lt;a href=&quot;https://github.com/dokku/dokku&quot;&gt;Dokku&lt;/a&gt;, a roll-your-own Heroku solution).&lt;/p&gt;
+
+&lt;h3 id=&quot;launching-the-experiment&quot;&gt;Launching the experiment&lt;/h3&gt;
+
+&lt;p&gt;Before launching, I had to set a clear goal for what the target response rate would be.&lt;/p&gt;
+
+&lt;p&gt;The figures I put down were:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Target visitor count: 1,000 visits&lt;/li&gt;
+  &lt;li&gt;Target conversion rate to subscriber: 20% (since it’s free)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With that out of the way, it was time to launch the landing page. I chose HackerNews and ProductHunt as my channels of choice — since that’s where the most likely target customer base lies.&lt;/p&gt;
+
+&lt;h4 id=&quot;hackernews&quot;&gt;HackerNews&lt;/h4&gt;
+
+&lt;p&gt;This was simple enough:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/landing-page-gforms-hackernews.png&quot; alt=&quot;Hacker News submission&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I &lt;a href=&quot;https://news.ycombinator.com/item?id=14580353&quot;&gt;submitted it&lt;/a&gt; on Sunday afternoon.&lt;/p&gt;
+
+&lt;h4 id=&quot;producthunt&quot;&gt;ProductHunt&lt;/h4&gt;
+
+&lt;p&gt;This was a bit more involved. I had to submit the screenshots of the (make-believe) mobile app along with an icon. I noticed that GIF images were more likely to grab attention, so I made one quickly to go along with the page.&lt;/p&gt;
+
+&lt;p&gt;You can find the submission &lt;a href=&quot;https://www.producthunt.com/posts/formsapp&quot;&gt;here&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/landing-page-gforms-producthunt.png&quot; alt=&quot;ProductHunt submission&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;I waited for 24 hours, and then checked Google Analytics for results:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gforms-analytics-result.png&quot; alt=&quot;Google Analytics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not bad. I managed to score 2,000 visits in total after just 1 day. I also checked the database, but that was much less encouraging: I only managed to get 14 emails.&lt;/p&gt;
+
+&lt;p&gt;That meant a dismal conversion rate of 14 / 2000 = 0.7% (a far cry from the 20% rate I’d set). And I wasn’t even asking for any money..&lt;/p&gt;
+
+&lt;p&gt;Not encouraging.&lt;/p&gt;
+
+&lt;p&gt;Still, I decided I’d reach out to the 14 emails and ask them for their feedback. I sent out to the following email to the folks that signed up:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gforms-email.png&quot; alt=&quot;Email&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I managed to get several responses from the people I reached out, a total of 5 of the 14 responded — and all of them said that they were B (just curious).&lt;/p&gt;
+
+&lt;p&gt;Great.&lt;/p&gt;
+
+&lt;h2 id=&quot;verdict&quot;&gt;Verdict&lt;/h2&gt;
+
+&lt;p&gt;The numbers have spoken — this idea is officially dead.&lt;/p&gt;</content><author><name></name></author><summary type="html">I use Google Forms alot, primarily to track my finances (and also with calorie counting). One quirk is that they don't have an offline solution &amp;mdash; I'm wondering if there are other people out there that find that valuable enough to pay for.</summary></entry><entry><title type="html">The Goals Idea</title><link href="https://yazin.co/the-goals-idea" rel="alternate" type="text/html" title="The Goals Idea" /><published>2017-06-27T00:00:00+03:00</published><updated>2017-06-27T00:00:00+03:00</updated><id>https://yazin.co/the-goals-idea</id><content type="html" xml:base="https://yazin.co/the-goals-idea">&lt;p&gt;The first idea I’ll be testing is one that I’ve had for a while. The description I had from &lt;a href=&quot;/list-of-ideas&quot;&gt;the Ideas list&lt;/a&gt; is this:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The way that large companies propagate high-level goals down from leadership to employees across the company is broken. It ends up becoming a formality, done over Powerpoint slides twice a year (beginning and end, during performance reviews). This is a lost opportunity, one where goals could serve as the glue that ties employees daily work towards a greater company objective. Coupled with transparency, employees can see exactly how they impact the greater goals.&lt;/p&gt;
