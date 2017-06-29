@@ -1,5 +1,8 @@
 ---
 layout: post
+excerpt: >
+  This is the first idea I'm testing. The idea is one I've had for a while, since my time at
+  GE. I'd like to see if I can get this hashed out and tested, quickly.
 ---
 
 The first idea I'll be testing is one that I've had for a while. The description I had from [the Ideas list]({% post_url 2017-06-26-list-of-ideas %}) is this:
