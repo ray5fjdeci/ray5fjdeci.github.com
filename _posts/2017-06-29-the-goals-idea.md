@@ -47,7 +47,7 @@ Here's what one of those emails looks like:
 
 ![Email](/assets/email-strategy-interview.png)
 
-I expected to hear back from half of the folks &mdash; so about 15 (especially since I offered to compensate them for their time, something I learned from [Jason Cohen](https://vimeo.com/74338272)). 
+I expected to hear back from half of the folks &mdash; so about 25 (especially since I offered to compensate them for their time, something I learned from [Jason Cohen](https://vimeo.com/74338272)). 
 
 I also drafted a few questions that I'd ask in the interview. Here are some of them:
 
