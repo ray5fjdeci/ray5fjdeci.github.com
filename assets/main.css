@@ -471,3 +471,18 @@ pre {
 
 .home .post-list h2 {
   margin-bottom: 0; }
+
+.postNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden; }
+  .postNavigation a {
+    display: block;
+    width: 50%;
+    margin: 1em 0; }
+    .postNavigation a.prev {
+      float: left; }
+    .postNavigation a.next {
+      float: right;
+      text-align: right; }
