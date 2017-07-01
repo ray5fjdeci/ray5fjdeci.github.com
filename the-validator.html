@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>The Validator</title>
+  <meta name="description" content="I found it very time consuming to test out the last 2 ideas, and I&#39;m wondering if there&#39;s a quicker way to do that specifically for testing out product ideas...">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="https://yazin.co/the-validator">
+  <link rel="alternate" type="application/rss+xml" title="Yazin builds a SaaS business" href="/feed.xml">
+  
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    <a class="site-title" href="/">Yazin builds a SaaS business</a>
+  
+    
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          
+            
+            
+            <a class="page-link" href="/about/">About</a>
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+        </div>
+      </nav>
+    
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">The Validator</h1>
+    <p class="post-meta">
+      <time datetime="2017-06-30T00:00:00+03:00" itemprop="datePublished">
+        
+        Jun 30, 2017
+      </time>
+      </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>The <a href="/the-gforms-idea">GForms’s Landing page</a> took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?</p>
+
+<p>You bet.</p>
+
+<p>This idea is to make a simple tool that helps you validate an idea quickly. No more slogging through creating a landing page, hooking up Intercom, etc. A/B testing messaging and running experiments. This tool has all the best practices built-in, and makes the process smooth as silk. $99/month, and you’ll still save so much time and money!</p>
+
+<p>That’s the idea anyway. Let’s see if it picks up any steam.</p>
+
+<h2 id="approach-to-validation">Approach to Validation</h2>
+
+<p>Step one, as ever, is to validate your riskiest assumption. Let’s break out the busines model canvas.</p>
+
+<h3 id="business-model-canvas">Business Model Canvas</h3>
+
+<p><img src="/assets/business-model-canvas-validate.png" alt="Business Model Canvas" /></p>
+
+<h3 id="landing-page">Landing Page</h3>
+
+<p>Ok, with that out of the way it’s clear that I’m going to need a landing page to test things out. I decided to build it using a landing page builder (as opposed to hand-coding it, which took forever <a href="/the-gforms-idea">last time</a>). I settled on <a href="http://instapage.com">InstaPage</a>, and was able to get familiar with it pretty quickly.</p>
+
+<p>The process went like so:</p>
+<ol>
+  <li>Open up Google Docs and type up the copy for the page.</li>
+  <li>Sketch the layout on paper</li>
+  <li>Implement it in InstaPage (I also used Mailchimp for collecting emails)</li>
+  <li>Buy a domain (I used <a href="http://validate.tech">validate.tech</a> for this experiment)</li>
+</ol>
+
+<p>It was all super-quick, and took just a few hours to put together.</p>
+
+<p>Here’s the end result (Yeah, I know … super-long, and text-heavy):</p>
+
+<p><img src="/assets/landing-page-validate.png" alt="Landing Page - Validate" /></p>
+
+<p>You’ll notice a Login link there (that’s fake, and leads to an empty page with a fake login screen that does nothing) and an address (also fake).</p>
+
+<h3 id="launching-the-experiment">Launching the experiment</h3>
+
+<p>Again, we need to make sure we’ve got clear goals ahead of the experiment. Mine was:</p>
+<ul>
+  <li>Target visitor count: 1,000 visits</li>
+  <li>Target conversion rate to payer: 1% (so, 10 * $49/mo. minimum = $490/mo.)</li>
+</ul>
+
+<p>I didn’t have a payment flow setup, it would just ask for your email and then say “Thanks!” before you had a chance to pay — but it does show intent to pay, which is what I care about right now.</p>
+
+<h4 id="hackernews--producthunt">HackerNews &amp; ProductHunt</h4>
+
+<ul>
+  <li>Hackernews link <a href="https://news.ycombinator.com/item?id=14654999">here</a></li>
+  <li>ProductHunt link <a href="https://www.producthunt.com/posts/validate">here</a></li>
+</ul>
+
+<p>This time, the results were pretty dismal from both channels … the grand total was:</p>
+
+<p><img src="/assets/analytics-validate-1.png" alt="Analytics" /></p>
+
+<p>51 visitors; 0 conversions. Damn, that’s horrible. The Google Forms idea raked in 1,000 visits per channel (2k visitors total) so I was expecting something similar. However, it seems that was naive — many people thought that the Google Forms idea was an <em>actual Google product</em>, and hence the interest. This idea didn’t have that going for it, so no free ride.</p>
+
+<p>Hmm. I need to figure out a way to get more traffic so that the results are at least statistically significant.</p>
+
+<h4 id="reddit--everything-else">Reddit &amp; everything else</h4>
+
+<p>In a bid to get more visits, I made sure to submit it everywhere where my target audience might hang out. This included:</p>
+
+<ul>
+  <li><a href="https://www.reddit.com/r/programming/comments/6khslc/test_your_startup_idea_in_under_24_hours/">r/programming</a></li>
+  <li><a href="https://softwareengineering.stackexchange.com/questions/351961/how-can-i-effectively-test-a-product-idea-before-building-it">Software Engineering @ StackExchange</a> — yes, I posted a question linking to my site so folks would click it. Shoot me.</li>
+</ul>
+
+<p>This won’t get me to 1,000 visits. Instead of spending money to get more visits (via ads), I decided to maximize the data I get per visit. I added <a href="http://crazyegg.com">CrazyEgg</a> for both heatmaps (which they are well known for), as well as a new feature they’d launched called Recordings (which record everything the user does on your site). Here’s what that looks like:</p>
+
+<p><img src="/assets/crazyegg-recordings-validate.png" alt="Recordings" /></p>
+
+<p>Excellent. I waited till the next day for the results to come in:</p>
+
+<p><img src="/assets/analytics-validate-2.png" alt="Google Analytics - Take 2" /></p>
+
+<p>Ok, so that’s 100 more visits since yesterday. When digging through the CrazyEgg logs, I noticed something interesting:</p>
+
+<p><img src="/assets/analytics-try-clicks.png" alt="Clicks on Try Validate" /></p>
+
+<p>Looks like 5% of visitors were interested in “Try Validate”, a button I’d added at the bottom of the page that simply scrolls up to the pricing section. Hmm, maybe a free trial would’ve converted better than … well, nothing.</p>
+
+<p>I then checked the leads, and was surprised to see one lead:</p>
+
+<p><img src="/assets/leads-validate-one.png" alt="Leads" /></p>
+
+<p>Hmm, using a Gmail address for an enterprise plan does not seem promising — but hey, I sent an email out to Joe anyway to see why he signed up for a demo.</p>
+
+<p>Technically, that makes for a conversion rate of 1 / 150 = ~0.7% vs the goal of 1% — but again, this depends on how this Joe lead turns out. I’m (hopelessly?) optimistic it’ll pan out.</p>
+
+
+  </div>
+
+  
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Yazin builds a SaaS business</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            
+              Yazin builds a SaaS business
+            
+            </li>
+            
+            <li><a href="mailto:hi@yazin.co">hi@yazin.co</a></li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+          <li>
+            <a href="https://twitter.com/yazinsai"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">yazinsai</span></a>
+
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>My name&#39;s Yazin, and I&#39;m a Product Manager building a Software as a Service (SaaS) business from the ground up.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101878725-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    
+  </body>
+
+</html>
