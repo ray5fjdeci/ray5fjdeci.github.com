@@ -3,6 +3,7 @@ layout: post
 excerpt: >
   I use Google Forms alot, primarily to track my finances (and also with calorie counting). One quirk is that they don't have an offline solution &mdash; I'm wondering if there are other people out there that find that valuable enough to pay for.
 ---
+*Note: I actually ran this experiment about 2 weeks before I posted this, but wanted to document everything here &mdash; hence this post*
 
 Alright, let's hit another idea and see what we can learn. This one goes like so:
 
