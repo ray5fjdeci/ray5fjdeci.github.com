@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ideas
 excerpt: >
   This is the first idea I'm testing. The idea is one I've had for a while, since my time at
   GE. I'd like to see if I can get this hashed out and tested, quickly.
