@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Ideas
+title: List of Ideas
 permalink: /ideas/
 redirect_from:
   - /list-of-ideas
 excerpt: >
   Having talked about how to think about ideas, the next step is to actually list them all down. That's what I'm doing in this post.
 ---
-Having [talked about how to think about ideas]({% post_url 2017-06-25-finding-an-idea %}), the natural next step is to list them down in one place. That's what this post is about. It includes the results of both thought processes (that I described in the previous post).
+Having [talked about how to think about ideas]({% post_url 2017-06-25-finding-an-idea %}), the natural next step is to list them down in one place. That's what this page is all about. It includes the results of both thought processes (that I described in the previous post).
+
+> This is the always up-to-date list of ideas. I continuously add ideas here, and ~~mark off the ideas that have died~~.
 
 This particular list include a dump of all the technologies that match my background. Essentially:
 
@@ -32,7 +34,7 @@ This particular list include a dump of all the technologies that match my backgr
 
 ## Human Augmentation
 
--  **GE [Consumer]:** The way that large companies propagate high-level goals down from leadership to employees across the company is broken. It ends up becoming a formality, done over Powerpoint slides twice a year (beginning and end, during performance reviews). This is a lost opportunity, one where goals could serve as the glue that ties employees daily work towards a greater company objective. Coupled with transparency, employees can see exactly how they impact the greater goals.
+-  [~~Goals app~~]({% post_url 2017-06-27-the-goals-idea %}) The way that large companies propagate high-level goals down from leadership to employees across the company is broken. It ends up becoming a formality, done over Powerpoint slides twice a year (beginning and end, during performance reviews). This is a lost opportunity, one where goals could serve as the glue that ties employees daily work towards a greater company objective. Coupled with transparency, employees can see exactly how they impact the greater goals.
 
 ## Financial Services
 
@@ -45,7 +47,7 @@ This particular list include a dump of all the technologies that match my backgr
 - RealEstate 2.0: How can you make it 10x easier to get a property sold? How can you make it 10x better for sellers/buyers?
 - Simple Workflow tool (like SupportCentral @ GE, KissFlow) that makes it easier to get stuff done inside teams. Drag and drop, done.
 - Private photo sharing, with the Middle East in mind [Consumer]. I suck at sharing photos that I take — and usually see sending them over Whatsapp as such a chore (it's a bad UX either way, for both sender and receiver). Better way?
-- **GoogleForms++**: A forms app that works on mobile and is offline. Maybe include an Android widget so you can tap, tap, done.
-- **The Validator**: A simple tool that helps you validate an idea quickly. No more slogging through creating a landing page, hooking up Intercom, etc. A/B testing messaging and testing experiments. This tool has all the best practices built-in, and makes the process smooth as silk. $99/month (you'll save so much time and money!)
+- [~~GoogleForms++~~]({% post_url 2017-06-29-the-gforms-idea %}): A forms app that works on mobile and is offline. Maybe include an Android widget so you can tap, tap, done.
+- [~~The Validator~~]({% post_url 2017-06-30-the-validator %}): A simple tool that helps you validate an idea quickly. No more slogging through creating a landing page, hooking up Intercom, etc. A/B testing messaging and testing experiments. This tool has all the best practices built-in, and makes the process smooth as silk. $99/month (you'll save so much time and money!)
 
 It's clear that I've got *A LOT* of ideas, and this list will only grow larger with time. Hence, I need to figure out a way to validate ideas quickly. I'll put a process in place once I've tested a few of these ideas out.
