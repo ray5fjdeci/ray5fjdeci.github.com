@@ -28,6 +28,15 @@ permalink: /:title
 disqus:
   shortname: yazinco
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      read_time: true
+      comments: true
+
 # Build settings
 markdown: kramdown
 theme: minima
