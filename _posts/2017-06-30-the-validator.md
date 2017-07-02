@@ -89,4 +89,10 @@ Hmm, using a Gmail address for an enterprise plan does not seem promising &mdash
 
 Technically, that makes for a conversion rate of 1 / 150 = ~0.7% vs the goal of 1% &mdash; but again, this depends on how this Joe lead turns out. I'm (hopelessly?) optimistic it'll pan out.
 
+## Results
 
+Update: By the next day, I had 300+ visitors total (most of it from Reddit/programming). No improvement in leads though &mdash; still just the 1.
+
+![Analytics - Final](/assets/analytics-validate-3.png)
+
+The numbers speak for themselves &mdash; this experiment failed.
