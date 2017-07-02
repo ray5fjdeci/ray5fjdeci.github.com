@@ -1,5 +1,9 @@
 ---
-layout: post
+layout: page
+title: Ideas
+permalink: /ideas/
+redirect_from:
+  - /list-of-ideas
 excerpt: >
   Having talked about how to think about ideas, the next step is to actually list them all down. That's what I'm doing in this post.
 ---

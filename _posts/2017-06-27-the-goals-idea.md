@@ -6,7 +6,7 @@ excerpt: >
   GE. I'd like to see if I can get this hashed out and tested, quickly.
 ---
 
-The first idea I'll be testing is one that I've had for a while. The description I had from [the Ideas list]({% post_url 2017-06-26-list-of-ideas %}) is this:
+The first idea I'll be testing is one that I've had for a while. The description I had from [the Ideas list]({% link ideas.md %}) is this:
 
 > The way that large companies propagate high-level goals down from leadership to employees across the company is broken. It ends up becoming a formality, done over Powerpoint slides twice a year (beginning and end, during performance reviews). This is a lost opportunity, one where goals could serve as the glue that ties employees daily work towards a greater company objective. Coupled with transparency, employees can see exactly how they impact the greater goals.
 
