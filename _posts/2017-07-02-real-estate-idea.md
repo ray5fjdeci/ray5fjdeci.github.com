@@ -19,4 +19,26 @@ Instead, and because I know very little about the space, I'll start by attemptin
 
 Oh, and I'll do this until I feel like I've nailed the process (i.e. I can predict exactly what steps the next realtor will follow, to the t). That'll probably take about 30 tries to do, maybe more. We'll see&hellip;
 
+### The Buying Process
 
+I setup viewings for 8 properties with various real-estate agents, and sourced through multiple websites. Here's a list:
+
+<iframe src="https://docs.google.com/spreadsheets/d/1ZXSc5S8ijY2ShoBPCKH3O6WUlaLJoOVJTm-7HsWib7A/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width:100%;height:350px;border:1px solid #ccc;"></iframe>
+
+Having gone through all of these viewings, here's what the process looks like:
+- Buyer sets up viewing with agent via phone call (obtained from a website)
+- Agent gets the keys
+- Agent meets the buyer at the house
+- Agent walks the buyer through the house
+- Agent shows adjacent properties
+- After being shown the properties, the majority of buyers "disappear"
+- Buyer decides on house
+- Buyer negotiate price with owner via agent
+- Owner obtains No Objection Certificate from government after paying all the charges
+- Downpayment of BHD5,000 in order to take house off the market while the bank loan is underway
+- Setup bank loan
+- Proceed to notary for transfer of the title deed 
+- All done
+
+There are quite a few interesting observations I made while going through this process, that I've listed below:
+- Both buyer and agent (who get paid %'s of the house value) are incentivized to sell the house at the maximum price, to the detriment of the buyer.
