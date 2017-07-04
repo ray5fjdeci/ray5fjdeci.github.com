@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-07-02T23:12:38+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-07-04T20:01:42+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
 </subtitle><entry><title type="html">Real Estate Idea</title><link href="https://yazin.co/real-estate-idea" rel="alternate" type="text/html" title="Real Estate Idea" /><published>2017-07-02T00:00:00+03:00</published><updated>2017-07-02T00:00:00+03:00</updated><id>https://yazin.co/real-estate-idea</id><content type="html" xml:base="https://yazin.co/real-estate-idea">&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; a well-defined idea, and I still don’t know what to test — or indeed, whether there’s anything to do here. I do know that people in Bahrain buy &amp;amp; sell real-estate the same way they have in the pre-web era. The only difference is that now there’s a bunch of websites (really, not very different than catalogs, or newspaper classifieds) that advertise properties. The transaction is always initiated via a phone call, followed by a site visit.&lt;/p&gt;
 
 &lt;p&gt;There’s certainly room for improvement — but before doing anything, the first step has to be about discovery. Don’t try to fix something you don’t fully understand.&lt;/p&gt;
@@ -9,7 +9,48 @@
 
 &lt;p&gt;Instead, and because I know very little about the space, I’ll start by attempting to buy a property (masquerading as a buyer). This will allow me to start at the beginning (a buyer shows interest), and then branch out to the other process directions (how did the owner list the property?) and (how does the realtor close the sale).&lt;/p&gt;
 
-&lt;p&gt;Oh, and I’ll do this until I feel like I’ve nailed the process (i.e. I can predict exactly what steps the next realtor will follow, to the t). That’ll probably take about 30 tries to do, maybe more. We’ll see…&lt;/p&gt;</content><author><name></name></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
+&lt;p&gt;Oh, and I’ll do this until I feel like I’ve nailed the process (i.e. I can predict exactly what steps the next realtor will follow, to the t). That’ll probably take about 30 tries to do, maybe more. We’ll see…&lt;/p&gt;
+
+&lt;h3 id=&quot;the-buying-process&quot;&gt;The Buying Process&lt;/h3&gt;
+
+&lt;p&gt;I setup viewings for 8 properties with various real-estate agents, and sourced through multiple websites. Here’s a list:&lt;/p&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/spreadsheets/d/1ZXSc5S8ijY2ShoBPCKH3O6WUlaLJoOVJTm-7HsWib7A/pubhtml?gid=0&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false&quot; style=&quot;width:100%;height:350px;border:1px solid #ccc;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Having gone through all of these viewings, here’s what the process looks like (from the Buyers perspective):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Buyer sets up viewing with agent via phone call (obtained from a website)&lt;/li&gt;
+  &lt;li&gt;Agent gets the keys&lt;/li&gt;
+  &lt;li&gt;Agent meets the buyer at the house&lt;/li&gt;
+  &lt;li&gt;Agent walks the buyer through the house&lt;/li&gt;
+  &lt;li&gt;Agent shows adjacent properties&lt;/li&gt;
+  &lt;li&gt;After being shown the properties, the majority of buyers “disappear”&lt;/li&gt;
+  &lt;li&gt;Buyer decides on house&lt;/li&gt;
+  &lt;li&gt;Buyer negotiate price with owner via agent&lt;/li&gt;
+  &lt;li&gt;Owner obtains No Objection Certificate from government after paying all the charges&lt;/li&gt;
+  &lt;li&gt;Downpayment of BHD5,000 in order to take house off the market while the bank loan is underway&lt;/li&gt;
+  &lt;li&gt;Setup bank loan&lt;/li&gt;
+  &lt;li&gt;Proceed to notary for transfer of the title deed&lt;/li&gt;
+  &lt;li&gt;All done&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s what it looks like visually, with some notes of the things I found odd:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/real-estate-buyer-process.png&quot;&gt; &lt;img src=&quot;/assets/real-estate-buyer-process.png&quot; alt=&quot;Buyer process&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-selling-process&quot;&gt;The Selling Process&lt;/h3&gt;
+
+&lt;p&gt;For this next bit, I call up estate agents this time seeking assistance in selling my house. I then clarify the process after having called several estate agents and figured out a cohesive process map for the selling process.&lt;/p&gt;
+
+&lt;p&gt;Here’s the list:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Seller calls up the estate agent&lt;/li&gt;
+  &lt;li&gt;Estate agent comes in and takes photos of the property&lt;/li&gt;
+  &lt;li&gt;Estate agent suggests the price, according to current market conditions&lt;/li&gt;
+  &lt;li&gt;Once price is decided, the agent posts the property on the various channels (website, etc.)&lt;/li&gt;
+  &lt;li&gt;If the buyer decides on purchasing the property, a price negotiation is conducted&lt;/li&gt;
+  &lt;li&gt;If the buyer decided to proceed, they both meet at the notary and sign over the title deed&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
 
 &lt;p&gt;You bet.&lt;/p&gt;
 
