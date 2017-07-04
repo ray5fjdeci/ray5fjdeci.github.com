@@ -25,7 +25,7 @@ I setup viewings for 8 properties with various real-estate agents, and sourced t
 
 <iframe src="https://docs.google.com/spreadsheets/d/1ZXSc5S8ijY2ShoBPCKH3O6WUlaLJoOVJTm-7HsWib7A/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width:100%;height:350px;border:1px solid #ccc;"></iframe>
 
-Having gone through all of these viewings, here's what the process looks like:
+Having gone through all of these viewings, here's what the process looks like (from the Buyers perspective):
 - Buyer sets up viewing with agent via phone call (obtained from a website)
 - Agent gets the keys
 - Agent meets the buyer at the house
@@ -40,5 +40,21 @@ Having gone through all of these viewings, here's what the process looks like:
 - Proceed to notary for transfer of the title deed 
 - All done
 
-There are quite a few interesting observations I made while going through this process, that I've listed below:
-- Both buyer and agent (who get paid %'s of the house value) are incentivized to sell the house at the maximum price, to the detriment of the buyer.
+Here's what it looks like visually, with some notes of the things I found odd:
+
+[ ![Buyer process](/assets/real-estate-buyer-process.png) ](/assets/real-estate-buyer-process.png)
+
+
+### The Selling Process
+
+For this next bit, I call up estate agents this time seeking assistance in selling my house. I then clarify the process after having called several estate agents and figured out a cohesive process map for the selling process.
+
+Here's the list:
+- Seller calls up the estate agent
+- Estate agent comes in and takes photos of the property
+- Estate agent suggests the price, according to current market conditions
+- Once price is decided, the agent posts the property on the various channels (website, etc.)
+- If the buyer decides on purchasing the property, a price negotiation is conducted
+- If the buyer decided to proceed, they both meet at the notary and sign over the title deed
+
+
