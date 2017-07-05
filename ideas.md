@@ -50,5 +50,8 @@ This particular list include a dump of all the technologies that match my backgr
 - Private photo sharing, with the Middle East in mind [Consumer]. I suck at sharing photos that I take — and usually see sending them over Whatsapp as such a chore (it's a bad UX either way, for both sender and receiver). Better way?
 - [~~GoogleForms++~~]({% post_url 2017-06-29-the-gforms-idea %}): A forms app that works on mobile and is offline. Maybe include an Android widget so you can tap, tap, done.
 - [~~The Validator~~]({% post_url 2017-06-30-the-validator %}): A simple tool that helps you validate an idea quickly. No more slogging through creating a landing page, hooking up Intercom, etc. A/B testing messaging and testing experiments. This tool has all the best practices built-in, and makes the process smooth as silk. $99/month (you'll save so much time and money!)
+- "Marketplace glue ideas" where you can patch supply with demand in a much more streamlined way. Examples include:
+  - Canvas art, where you offer a mobile app where customers can upload pictures from their recent vacations, and they are printed and delivered from local canvas printers (at a margin). The advantage is that you can expand geographically anywhere you have a few key local suppliers. Also, you don't worry about inventory, etc.
+  - Home repair services, where you take a photo / video of whatever needs fixing and send it off to local repair shops (plumbers, electricians, etc.). You have a handyman in your pocket, with reviews to keep off the bad folks. 
 
 It's clear that I've got *A LOT* of ideas, and this list will only grow larger with time. Hence, I need to figure out a way to validate ideas quickly. I'll put a process in place once I've tested a few of these ideas out.

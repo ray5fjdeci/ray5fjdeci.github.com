@@ -57,4 +57,39 @@ Here's the list:
 - If the buyer decides on purchasing the property, a price negotiation is conducted
 - If the buyer decided to proceed, they both meet at the notary and sign over the title deed
 
+[ ![Seller process](/assets/real-estate-seller-process.png) ](/assets/real-estate-seller-process.png)
 
+### Deciding on a problem
+
+At this point, I have several candidates for problems to sovle &mdash; all of them from notes I picked up during the buying process.
+
+I've listed what seem to be the most promising candidates here:
+- The issue of handling keys. In the instances I witnessed, the agents either had to drive out of their way to get the keys from someplace, or were just unable to provide the keys at all because they didn't have them handy. I already have several ideas for solutions, but let's not get ahead of ourselves.
+- Agents ask for the price of the property in order to identify which one you're talking about. Do they not have an app for this? How do they track their properties? Worth exploring&hellip; Also tied to two other issues:
+  - Offered homes for viewing that were not listed on the site
+  - The issue where the agent didn't know the status of the home because the owner was non-responsive. 
+
+Next, I need to talk to some real estate agents to see if this is something that might actually fly &mdash; since they would be the customer.
+
+I pulled up LinkedIn, and started searching for 1st and 2nd degree connections with people in the real-estate industry, specifically agents and owners of agencies.
+
+{% comment %}
+The people I'm looking at:
+- [X] Shahan Javed, via Qasim Khuzaie https://www.linkedin.com/in/shahan-javed-3738aa119/
+- [ ] Qasem Alkuzaie knows some guys
+- [X] Adel Maymoon must know some guys
+- [ ] Mokdad might know some guys
+- [X] Ali Barhoom https://www.linkedin.com/in/ali-barhoom-27817012/
+- [ ] Fakhro https://www.linkedin.com/in/fakhroo-mohammed-janahi-55472422/
+- [ ] Ahmed https://www.linkedin.com/in/ahmed-alawadhi-14019347/
+- [ ] Hussain https://www.linkedin.com/in/hussain-ahmed-28a71376/
+- [ ] Rashed Alobaidly https://www.linkedin.com/in/rashed-alobaidly-50b68211b/
+- [ ] https://www.linkedin.com/in/zakariya-al-oraibi-16414721/
+
+Adel recommended:
+1- Mohd Al Awadhi, Royal Ambassador (Kooheji Contractors) +973 39933558 
+2- Khalid Abdulghaffar, Eagle Hills (Marassi Al Bahrain) +973 66666001
+3- Yusuf Hajji, Bin Faqeeh +973 32200080
+
+Why not just call estate agents and ask over the phone? You could pose as a student doing a project in the real-estate space, and ask about keys.
+{% endcomment %}
