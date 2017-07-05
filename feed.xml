@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-07-04T20:01:42+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-07-05T19:51:30+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
 </subtitle><entry><title type="html">Real Estate Idea</title><link href="https://yazin.co/real-estate-idea" rel="alternate" type="text/html" title="Real Estate Idea" /><published>2017-07-02T00:00:00+03:00</published><updated>2017-07-02T00:00:00+03:00</updated><id>https://yazin.co/real-estate-idea</id><content type="html" xml:base="https://yazin.co/real-estate-idea">&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; a well-defined idea, and I still don’t know what to test — or indeed, whether there’s anything to do here. I do know that people in Bahrain buy &amp;amp; sell real-estate the same way they have in the pre-web era. The only difference is that now there’s a bunch of websites (really, not very different than catalogs, or newspaper classifieds) that advertise properties. The transaction is always initiated via a phone call, followed by a site visit.&lt;/p&gt;
 
 &lt;p&gt;There’s certainly room for improvement — but before doing anything, the first step has to be about discovery. Don’t try to fix something you don’t fully understand.&lt;/p&gt;
@@ -50,7 +50,28 @@
   &lt;li&gt;Once price is decided, the agent posts the property on the various channels (website, etc.)&lt;/li&gt;
   &lt;li&gt;If the buyer decides on purchasing the property, a price negotiation is conducted&lt;/li&gt;
   &lt;li&gt;If the buyer decided to proceed, they both meet at the notary and sign over the title deed&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/real-estate-seller-process.png&quot;&gt; &lt;img src=&quot;/assets/real-estate-seller-process.png&quot; alt=&quot;Seller process&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;deciding-on-a-problem&quot;&gt;Deciding on a problem&lt;/h3&gt;
+
+&lt;p&gt;At this point, I have several candidates for problems to sovle — all of them from notes I picked up during the buying process.&lt;/p&gt;
+
+&lt;p&gt;I’ve listed what seem to be the most promising candidates here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The issue of handling keys. In the instances I witnessed, the agents either had to drive out of their way to get the keys from someplace, or were just unable to provide the keys at all because they didn’t have them handy. I already have several ideas for solutions, but let’s not get ahead of ourselves.&lt;/li&gt;
+  &lt;li&gt;Agents ask for the price of the property in order to identify which one you’re talking about. Do they not have an app for this? How do they track their properties? Worth exploring… Also tied to two other issues:
+    &lt;ul&gt;
+      &lt;li&gt;Offered homes for viewing that were not listed on the site&lt;/li&gt;
+      &lt;li&gt;The issue where the agent didn’t know the status of the home because the owner was non-responsive.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next, I need to talk to some real estate agents to see if this is something that might actually fly — since they would be the customer.&lt;/p&gt;
+
+&lt;p&gt;I pulled up LinkedIn, and started searching for 1st and 2nd degree connections with people in the real-estate industry, specifically agents and owners of agencies.&lt;/p&gt;</content><author><name></name></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
 
 &lt;p&gt;You bet.&lt;/p&gt;
 
