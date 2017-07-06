@@ -71,7 +71,13 @@ I've listed what seem to be the most promising candidates here:
 
 Next, I need to talk to some real estate agents to see if this is something that might actually fly &mdash; since they would be the customer.
 
-I pulled up LinkedIn, and started searching for 1st and 2nd degree connections with people in the real-estate industry, specifically agents and owners of agencies.
+I pulled up LinkedIn, and started searching for 1st and 2nd degree connections with people in the real-estate industry, specifically agents and owners of agencies. I also decided to put together a draft to ask [a whole list of real-estate agents](https://www.bahrainpropertyworld.com/bahrain-property-and-real-estate-agents/) that I had no relation with. Mind you, this was a list of agencies, not agents &mdash; so I'd still have to do a bunch of digging to find the contact details for specific agents. Still, totally doable.
+
+Next, I need a script. Here's what I used:
+
+> Hey [Name]? ⏸  My name's Yazin, I'm a business student working on a project to help real-estate agents. Could you help answer some questions for me? It'll only be a few minutes ⏸  Great. Let's say I was looking to buy a house. How would you look up the details of the property? Do you have some sort of system you use, or is it something more basic? ⏸  Ok, and how does that work if you're outside the office? ⏸  Great, now my last set of questions are going to be about the keys to the houses on sale. Do the owners usually keep the keys or do you hold on to them? ⏸  Where do you usually keep them? ⏸  What happens if another real-estate agent has a client that wants to see the property? ⏸  
+
+Next, I put together the list of agents:
 
 {% comment %}
 The people I'm looking at:
@@ -92,4 +98,24 @@ Adel recommended:
 3- Yusuf Hajji, Bin Faqeeh +973 32200080
 
 Why not just call estate agents and ask over the phone? You could pose as a student doing a project in the real-estate space, and ask about keys.
+
+See: https://anotepad.com/notes/b5pt26
 {% endcomment %}
+
+<iframe src="https://docs.google.com/spreadsheets/d/1ZljRuyjHNza7LeJUMpNwgVITKTvT4nyVzNXZ0aKV2FQ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width:100%; height:400px;border:1px solid #ccc;"></iframe>
+
+&hellip; and started talking!
+
+I was originally planning on speaking to all 55 agents in the list, but I found that the answers were pretty much all the same after #8, so I didn't see a reason to continue. 
+
+I was able to learn that:
+
+**Keys problem**:
+1. In most cases, the property keys are kept with the property owners. In the remaining ~20% of cases, they are either kept with property managers, security guard/watchmen or are handed over to the real estate agent (in case of an exclusive arrangement between owner and agent).
+2. If another agent refers a client, then they split the commission (often down the middle). However, there's a database of properties for sale/on rent that's used by many real estates which lists the contact details of the owners. This means that in some cases, the real estate agent with the client can cut out the listing agent and close the deal with the owner directly. It's unclear how big of an issue this is.
+
+**Systems problem**:
+1. Every agent uses some sort of system (even if that's just basic Excel for small agencies), but none of them seemed to be aware that there was an issue &mdash; nor did they complain about it much.
+2. There are 12.5 million results on Google for "real estate CRM" :)
+
+From what I've learned, the key problem seems worthwhile to pursue.
