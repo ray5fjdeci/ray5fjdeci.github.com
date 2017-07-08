@@ -1,6 +1,6 @@
 # main links
 main:
+  - title: "List of Ideas"
+    url: /ideas/
   - title: "About"
     url: /about/
-  # - title: "Sitemap"
-  #   url: /sitemap/
