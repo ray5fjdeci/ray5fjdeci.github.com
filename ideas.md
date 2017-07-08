@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: List of Ideas
 permalink: /ideas/
 redirect_from:

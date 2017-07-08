@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 categories: ideas
 excerpt: >
   This isn't a particular idea, but a possibility. I've had very little experience with real

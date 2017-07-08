@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 categories: ideas
 excerpt: >
   This is the first idea I'm testing. The idea is one I've had for a while, since my time at

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 categories: ideas
 excerpt: >
   I found it very time consuming to test out the last 2 ideas, and I'm wondering if there's a quicker way to do that specifically for testing out product ideas. That's what I'll be testing with this experiment.
