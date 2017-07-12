@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-07-08T22:11:03+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-07-12T21:36:00+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
 </subtitle><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><entry><title type="html">Real Estate Idea</title><link href="https://yazin.co/real-estate-idea/" rel="alternate" type="text/html" title="Real Estate Idea" /><published>2017-07-02T00:00:00+03:00</published><updated>2017-07-02T00:00:00+03:00</updated><id>https://yazin.co/real-estate-idea</id><content type="html" xml:base="https://yazin.co/real-estate-idea/">&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; a well-defined idea, and I still don’t know what to test — or indeed, whether there’s anything to do here. I do know that people in Bahrain buy &amp;amp; sell real-estate the same way they have in the pre-web era. The only difference is that now there’s a bunch of websites (really, not very different than catalogs, or newspaper classifieds) that advertise properties. The transaction is always initiated via a phone call, followed by a site visit.&lt;/p&gt;
 
 &lt;p&gt;There’s certainly room for improvement — but before doing anything, the first step has to be about discovery. Don’t try to fix something you don’t fully understand.&lt;/p&gt;
@@ -17,24 +17,7 @@
 
 &lt;iframe src=&quot;https://docs.google.com/spreadsheets/d/1ZXSc5S8ijY2ShoBPCKH3O6WUlaLJoOVJTm-7HsWib7A/pubhtml?gid=0&amp;amp;single=true&amp;amp;widget=true&amp;amp;headers=false&quot; style=&quot;width:100%;height:350px;border:1px solid #ccc;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Having gone through all of these viewings, here’s what the process looks like (from the Buyers perspective):&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Buyer sets up viewing with agent via phone call (obtained from a website)&lt;/li&gt;
-  &lt;li&gt;Agent gets the keys&lt;/li&gt;
-  &lt;li&gt;Agent meets the buyer at the house&lt;/li&gt;
-  &lt;li&gt;Agent walks the buyer through the house&lt;/li&gt;
-  &lt;li&gt;Agent shows adjacent properties&lt;/li&gt;
-  &lt;li&gt;After being shown the properties, the majority of buyers “disappear”&lt;/li&gt;
-  &lt;li&gt;Buyer decides on house&lt;/li&gt;
-  &lt;li&gt;Buyer negotiate price with owner via agent&lt;/li&gt;
-  &lt;li&gt;Owner obtains No Objection Certificate from government after paying all the charges&lt;/li&gt;
-  &lt;li&gt;Downpayment of BHD5,000 in order to take house off the market while the bank loan is underway&lt;/li&gt;
-  &lt;li&gt;Setup bank loan&lt;/li&gt;
-  &lt;li&gt;Proceed to notary for transfer of the title deed&lt;/li&gt;
-  &lt;li&gt;All done&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here’s what it looks like visually, with some notes of the things I found odd:&lt;/p&gt;
+&lt;p&gt;Having gone through all of these viewings, here’s what the buying process looks like visually, with some notes of the things I found odd:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/real-estate-buyer-process.png&quot;&gt; &lt;img src=&quot;/assets/real-estate-buyer-process.png&quot; alt=&quot;Buyer process&quot; /&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -95,13 +78,37 @@
   &lt;li&gt;If another agent refers a client, then they split the commission (often down the middle). However, there’s a database of properties for sale/on rent that’s used by many real estates which lists the contact details of the owners. This means that in some cases, the real estate agent with the client can cut out the listing agent and close the deal with the owner directly. It’s unclear how big of an issue this is.&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt;From what I’ve learned, the key problem seems more worthwhile to pursue but it’s obviously &lt;em&gt;not&lt;/em&gt; going to be a pure software solution. Some hardware would be needed to grant/revoke access to the property, even if it’s just &lt;a href=&quot;https://toor.today&quot;&gt;a lockbox&lt;/a&gt; (that project appears to be dead btw, after the owner raised ~$500k from KickStarter &amp;amp; Shark tank).&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Systems problem&lt;/strong&gt;:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Every agent uses some sort of system (even if that’s just basic Excel for small agencies), but none of them seemed to be aware that there was an issue — nor did they complain about it much.&lt;/li&gt;
-  &lt;li&gt;There are 12.5 million results on Google for “real estate CRM” :)&lt;/li&gt;
+  &lt;li&gt;There are 12.5 million results on Google for “real estate CRM”.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;From what I’ve learned, the key problem seems worthwhile to pursue.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator/" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator/">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea/&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
+&lt;p&gt;I also did come along another problem that I hadn’t thought about before:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Competition problem&lt;/strong&gt;:
+One thing I picked up from the conversations is that real estate agents have a dim view of &lt;em&gt;other&lt;/em&gt; real estate agents — and there’s always a worry that they are going to steal from each other. One particular example is how they don’t share all of the information pertaining to a property on their website, since that would mean other real estate agents might be able to see it too (and copy it). Of course, the more real estate agents know about a property, the more likely a buyer will end up seeing it, and the more likely it’ll get sold. However, real estate agents are not incentivized to work together, but work &lt;em&gt;against&lt;/em&gt; each other in order to make a (commission-based) living. It is strange that things like address and nearby points of interest are hidden to prevent this “theft” from taking place. This means that the customer can’t know the exact location of the property without first contacting the estate agent. Additionally, it means that if he/she wanted to view mutliple properties in the same location — they’d need to coordinate with multiple agents and hope that they can line them all up in the same window. This is a sucky situation for all the parties involved: propspective buyer, agent and the seller. The only parties you really need in order to execute a buy/sell agreement is the buyer and the seller — the agent’s role should be to add value as a middleman, not get in the way.&lt;/p&gt;
+
+&lt;p&gt;So to take a step back, let’s consider the value proposition of using an agent in the first place:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;They can do viewings for the owner, so the owner doesn’t have to show up to the property every time a prospective buyer comes by.&lt;/li&gt;
+  &lt;li&gt;They (supposedly) help find buyers. I say supposedly, since many people today seem to find properties (either via &lt;a href=&quot;https://www.bahrainpropertyworld.com/&quot;&gt;one&lt;/a&gt; &lt;a href=&quot;https://www.propertyfinder.bh/&quot;&gt;of&lt;/a&gt; &lt;a href=&quot;http://www.bestbahrainproperties.com/en/&quot;&gt;the&lt;/a&gt; &lt;a href=&quot;https://century21.bh/&quot;&gt;many&lt;/a&gt; &lt;a href=&quot;http://bahrain.youramlak.com/&quot;&gt;websites&lt;/a&gt; in &lt;a href=&quot;http://www.bahrainpropertylocators.com/&quot;&gt;existence&lt;/a&gt;, or by just passing by a property with a sign).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the downsides…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;They take a fee from both the seller (~2%) and the buyer (1%)&lt;/li&gt;
+  &lt;li&gt;They don’t always have the best interest of the buyer OR the seller at heart. Since they get paid a % of the sale price, their goal is to maxmimize that price. That’s obviously bad for buyers, but it’s also bad for the seller if they’re looking to sell on some sort of timeline (and not wait forever).&lt;/li&gt;
+  &lt;li&gt;Their scattered nature means that you often have to talk to mulitple agents to see a group of properties in the same location (no one agent has access to all of the properties; they might not even be aware of all of them in the first place).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My first impression is: wow, that’s nuts. I mean, there’s got to be more to what estate agents do than just (literally) unlocking doors and putting up signs! Maybe there’s some psychological element I’m overlooking — a sense of security knowing that you’re dealing with someone who’s sold tens of houses before and know’s what they’re doing. Yeah, may be. Still, it seems really overpriced for what you’re getting.&lt;/p&gt;
+
+&lt;p&gt;My first impression is: &lt;a href=&quot;https://www.fastcompany.com/3001334/want-disrupt-industry-try-actually-working-it-first&quot;&gt;before I cross them off as useless, it’s a good idea to get in their shoes&lt;/a&gt; for a while… see what it feels like to actually get people to buy/rent a property, and then figure out whether they do indeed add value or not.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator/" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator/">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea/&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
 
 &lt;p&gt;You bet.&lt;/p&gt;
 
