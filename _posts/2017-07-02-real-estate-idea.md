@@ -25,25 +25,9 @@ I setup viewings for 8 properties with various real-estate agents, and sourced t
 
 <iframe src="https://docs.google.com/spreadsheets/d/1ZXSc5S8ijY2ShoBPCKH3O6WUlaLJoOVJTm-7HsWib7A/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width:100%;height:350px;border:1px solid #ccc;"></iframe>
 
-Having gone through all of these viewings, here's what the process looks like (from the Buyers perspective):
-- Buyer sets up viewing with agent via phone call (obtained from a website)
-- Agent gets the keys
-- Agent meets the buyer at the house
-- Agent walks the buyer through the house
-- Agent shows adjacent properties
-- After being shown the properties, the majority of buyers "disappear"
-- Buyer decides on house
-- Buyer negotiate price with owner via agent
-- Owner obtains No Objection Certificate from government after paying all the charges
-- Downpayment of BHD5,000 in order to take house off the market while the bank loan is underway
-- Setup bank loan
-- Proceed to notary for transfer of the title deed 
-- All done
-
-Here's what it looks like visually, with some notes of the things I found odd:
+Having gone through all of these viewings, here's what the buying process looks like visually, with some notes of the things I found odd:
 
 [ ![Buyer process](/assets/real-estate-buyer-process.png) ](/assets/real-estate-buyer-process.png)
-
 
 ### The Selling Process
 
@@ -114,8 +98,28 @@ I was able to learn that:
 1. In most cases, the property keys are kept with the property owners. In the remaining ~20% of cases, they are either kept with property managers, security guard/watchmen or are handed over to the real estate agent (in case of an exclusive arrangement between owner and agent).
 2. If another agent refers a client, then they split the commission (often down the middle). However, there's a database of properties for sale/on rent that's used by many real estates which lists the contact details of the owners. This means that in some cases, the real estate agent with the client can cut out the listing agent and close the deal with the owner directly. It's unclear how big of an issue this is.
 
+From what I've learned, the key problem seems more worthwhile to pursue but it's obviously *not* going to be a pure software solution. Some hardware would be needed to grant/revoke access to the property, even if it's just [a lockbox](https://toor.today) (that project appears to be dead btw, after the owner raised ~$500k from KickStarter &amp; Shark tank).
+
 **Systems problem**:
 1. Every agent uses some sort of system (even if that's just basic Excel for small agencies), but none of them seemed to be aware that there was an issue &mdash; nor did they complain about it much.
-2. There are 12.5 million results on Google for "real estate CRM" :)
+2. There are 12.5 million results on Google for "real estate CRM".
 
-From what I've learned, the key problem seems worthwhile to pursue.
+I also did come along another problem that I hadn't thought about before:
+
+**Competition problem**:
+One thing I picked up from the conversations is that real estate agents have a dim view of *other* real estate agents &mdash; and there's always a worry that they are going to steal from each other. One particular example is how they don't share all of the information pertaining to a property on their website, since that would mean other real estate agents might be able to see it too (and copy it). Of course, the more real estate agents know about a property, the more likely a buyer will end up seeing it, and the more likely it'll get sold. However, real estate agents are not incentivized to work together, but work *against* each other in order to make a (commission-based) living. It is strange that things like address and nearby points of interest are hidden to prevent this "theft" from taking place. This means that the customer can't know the exact location of the property without first contacting the estate agent. Additionally, it means that if he/she wanted to view mutliple properties in the same location &mdash; they'd need to coordinate with multiple agents and hope that they can line them all up in the same window. This is a sucky situation for all the parties involved: propspective buyer, agent and the seller. The only parties you really need in order to execute a buy/sell agreement is the buyer and the seller &mdash; the agent's role should be to add value as a middleman, not get in the way.
+
+So to take a step back, let's consider the value proposition of using an agent in the first place:
+
++ They can do viewings for the owner, so the owner doesn't have to show up to the property every time a prospective buyer comes by.
++ They (supposedly) help find buyers. I say supposedly, since many people today seem to find properties (either via [one](https://www.bahrainpropertyworld.com/) [of](https://www.propertyfinder.bh/) [the](http://www.bestbahrainproperties.com/en/) [many](https://century21.bh/) [websites](http://bahrain.youramlak.com/) in [existence](http://www.bahrainpropertylocators.com/), or by just passing by a property with a sign).
+
+And the downsides&hellip;
+
+- They take a fee from both the seller (~2%) and the buyer (1%)
+- They don't always have the best interest of the buyer OR the seller at heart. Since they get paid a % of the sale price, their goal is to maxmimize that price. That's obviously bad for buyers, but it's also bad for the seller if they're looking to sell on some sort of timeline (and not wait forever).
+- Their scattered nature means that you often have to talk to mulitple agents to see a group of properties in the same location (no one agent has access to all of the properties; they might not even be aware of all of them in the first place).
+
+My first impression is: wow, that's nuts. I mean, there's got to be more to what estate agents do than just (literally) unlocking doors and putting up signs! Maybe there's some psychological element I'm overlooking &mdash; a sense of security knowing that you're dealing with someone who's sold tens of houses before and know's what they're doing. Yeah, may be. Still, it seems really overpriced for what you're getting.
+
+My first impression is: [before I cross them off as useless, it's a good idea to get in their shoes](https://www.fastcompany.com/3001334/want-disrupt-industry-try-actually-working-it-first) for a while&hellip; see what it feels like to actually get people to buy/rent a property, and then figure out whether they do indeed add value or not.
