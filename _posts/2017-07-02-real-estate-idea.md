@@ -123,3 +123,5 @@ And the downsides&hellip;
 My first impression is: wow, that's nuts. I mean, there's got to be more to what estate agents do than just (literally) unlocking doors and putting up signs! Maybe there's some psychological element I'm overlooking &mdash; a sense of security knowing that you're dealing with someone who's sold tens of houses before and know's what they're doing. Yeah, may be. Still, it seems really overpriced for what you're getting.
 
 My first impression is: [before I cross them off as useless, it's a good idea to get in their shoes](https://www.fastcompany.com/3001334/want-disrupt-industry-try-actually-working-it-first) for a while&hellip; see what it feels like to actually get people to buy/rent a property, and then figure out whether they do indeed add value or not.
+
+**Note:** I'm working on a side-project so this'll be on hold for a few days while I see what transpires with the other idea. Expect an update on Wed, 19th July.
