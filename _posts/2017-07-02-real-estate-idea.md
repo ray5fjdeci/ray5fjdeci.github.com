@@ -125,3 +125,5 @@ My first impression is: wow, that's nuts. I mean, there's got to be more to what
 My first impression is: [before I cross them off as useless, it's a good idea to get in their shoes](https://www.fastcompany.com/3001334/want-disrupt-industry-try-actually-working-it-first) for a while&hellip; see what it feels like to actually get people to buy/rent a property, and then figure out whether they do indeed add value or not.
 
 **Note:** I'm working on a side-project so this'll be on hold for a few days while I see what transpires with the other idea. Expect an update on Wed, 19th July.
+
+**Update (28/July)**: Ok, so the other project took longer than I expected, and is already underway. It hasn't concluded yet (it'll take about a month from today), but it won't take up as much time from me as it did these past 2 weeks. I'll be continuing with this project from the 4th of August, once I'm back from a quick trip.
