@@ -19,15 +19,15 @@ I used [Notion](https://notion.so) for planning and documenting everything. It w
 
 - Understand the Basics
 - Find an Idea
-- [16 July] Pre-announce the ICO
-- [17 July] Draft the White Paper
-- [18 July] Draft copy for the Wesbite
-- [20 July] Launch the website
-- [19 July] Recruit prominent advisors
-- [22 July] Create a basic Smart Contract
-- [23 July] Reach out to ICO lists
-- [24 July] Publicity
-- [26 July] Launch ICO
+- [15 July] Pre-announce the ICO
+- [16 July] Draft the White Paper
+- [17 July] Draft copy for the Wesbite
+- [19 July] Launch the website
+- [20 July] Recruit prominent advisors
+- [21 July] Create a basic Smart Contract
+- [22 July] Reach out to ICO lists
+- [23 July] Publicity
+- [25 July] Launch ICO
 
 I figured if I could get everything done in about 10 days, it'd be great &mdash; even if the experiment doesn't raise anything. 
 
@@ -106,7 +106,7 @@ The main difference between Ethereum and Bitcoin with regard to the blockchain a
 - If gas is used every time the program is executed, and the program is executed on multiple nodes (presumably, simultaneously) — what's to prevent all of the gas from getting consumed _each time_ ? Answer [here](https://ethereum.stackexchange.com/a/21091/14187)
 - Where is stuff actually _stored_ ? Answer [here](https://ethereum.stackexchange.com/a/6413/14187) 
 
-## Finding an Idea
+## Finding an Idea 🤔
 
 Now that we're armed with a better understanding of the blockchain, bitcoin and more importantly *Ethereum* &hellip; we'll need an idea to execute on.
 
@@ -133,7 +133,7 @@ In general, there are three types of applications on top of Ethereum.
 
 Simple. Build a VC firm, based on the blockchain.
 
-For the name, I had a number of choices:
+For the name, I had a number of choices of available domain names:
 
 -  [herd.capital](http://herd.capital) 
 -  [collect.capital](http://collect.capital) 
@@ -141,9 +141,172 @@ For the name, I had a number of choices:
 -  [general.fund](http://general.fund) 
 -  [every.fund](http://every.fund) 
 -  [verify.fund](http://verify.fund) 
--  [unit.fund](http://unit.fund) 
+-  [unit.fund](http://unit.fund) &larr; ended up using this
 -  [lot.fund](http://lot.fund) 
 -  [elect.fund](http://elect.fund) 
 -  [elected.fund](http://elected.fund)
 
-Ended up using **Unit.Fund**
+## Day 1: Preannouncement of the ICO 🔔 
+
+Pre-announcement is the announcement of the future project in the communities of cryptocurrency investors, such as Bitcoin Talk, Reddit and others. The founders of the project write an executive summary - a small presentation to investors, in which they explain the essence and purpose of the ICO project. After the executive summary, the company receives the first feedback, which can be analyzed to see whether the project could interest investors or not.
+
+ **You can pre-announce here:** 
+
+- https://bitcointalk.org/index.php?board=159.0
+- https://www.reddit.com/r/icocrypto/
+- https://www.reddit.com/r/Bitcoin/
+
+Consider using a PR group specializing in crypto, like: [https://vindynegroup.com/](https://vindynegroup.com/) 
+
+**Things to include:**
+
+- Summary of the offering
+ [Unit.Fund](http://unit.Fund) is an Ethereum based closed-ended fund that allows anyone to invest in the world's best startups. No minimum investment amounts, and no minimum annual income means that anyone can now invest in the VC fund of the future — and realize the kind of gains only the rich could get access to.
+- Social media links: 
+	-  [https://twitter.com/unit_fund](https://twitter.com/unit_fund) 
+	- [Slack Invite link](https://join.slack.com/t/unitfund/shared_invite/MjEzMzk0NDQwODIwLTE1MDAxMjAzOTQtZWQ2MWYwMmIxYQ) 
+
+**Preannouncements posted:**
+
+I posted the following pre-announcements:
+
+- [BitcoinTalk](https://bitcointalk.org/index.php?topic=2023143)
+- [Reddit](https://www.reddit.com/r/icocrypto/comments/6nrgio/preico_unit_fund_the_internets_own_vc_firm/)
+
+Reddit fared alot better than BitcoinTalk. The overwhelming feedback from BitcoinTalk was to post with an account that's got more than just "Newbie" status (they didn't put it quite as nicely).
+
+## Day 2: Draft the White Paper 📝
+
+Source: [Angelist Funds](https://angel.co/syndicates/for-investors#funds) [+](https://angel.co/funds) , [Republic.co](https://republic.co/crowdsafe) , [Eureeca](https://eureeca.com/Static/HowItWorksInvestors.aspx) , [CrowdCube](https://www.crowdcube.com/investing-your-money) [+](https://help.crowdcube.com/hc/en-us/categories/200958429-Investing) , [CoinList](https://coinlist.co) 
+
+### Bullet Points
+
+- The "Y Combinator" of online startups
+- Today you're putting money in ICOs and don't know what you are getting. We solve that problem by pooling the money and vetting our investments ourselves with strict criteria. Oh, and we also have the best VCs as advisors to help guide us.
+- Flipping the investor model on it's head. Instead of having a small group of Limited Partners invest all the money (and receive the lion's share of the return), we're going to raise the fund from a large group of small investors — sometimes investing as little as $1. We're democratizing the investment firm.
+- Run by startup entrepreneurs, with veteran advisors: the best of the venture capital industry
+- Instant Diversification. One investment gets you exposure to hundreds of investments.
+- Vetted and Verified. 
+- Like an Index Fund. Get exposure across multiple sectors, stages and geographies.
+- The last ICO you'll ever need to invest in!
+
+### How it Works
+
+- All contributing investors are treated as a single "investor"
+- Legal entity which commits the capital will be setup in a tax-free, startup friendly jurisdiction (e.g. British Virgin Islands)
+- Investors can act as early adopters for the portfolio companies (a regular newsletter will got out with deal details to investors, so that they can
+- How do funds select deals? Funds are designed to give broad market exposure, either to the early-stage market generally or to a specific sector (depending on the fund in which you invest). There is a multi-stage selection process that includes, among other things, evaluating co-investors, conflicts, concentration in any one syndicate and non-arms length transactions. We may not apply the same process to every deal.
+- What reporting will funds do? Funds will disclose fund investments after they are finalized, and may provide qualitative updates to investors when available. Funds will not post audited financial statements. Funds will not mark valuations to market each year given the extreme difficulty of doing that in an accurate manner for early stage investments.
+- Who can invest? Anyone over the age of 18 can invest. There are no net worth or income minimums, but U.S. law does limit how much you can invest. You do not need to be a U.S. citizen to invest. 
+- Do you accept US investors? **No.** The US has very strict rules on marketing to or receiving investment from US persons. Therefore, we do not allow US persons — defined as persons with single or dual US nationality, persons residing in the US, or whose primary bank account is in the US — to invest through Eureeca.
+- Investors can be private individuals as well as institutions. What they will all have in common is an interest in investing in high-yield potential private businesses.
+- What due diligence checks are done? The due diligence check ensures that businesses applying to raise funds on Eureeca are legitimate and exist. Eureeca works with third-party compliance firms to assess if the company is incorporated, the duration of operations and that all necessary corporate and legal documents are in place. Additionally, background checks will be done on the team and founders to ensure that there is no history of fraud or other relevant criminal activity.
+- Did you know that investing in early stage investments can generate an annual return of 27%? Bearing that in mind, how much do you think you would allocate to investing in SMEs per year?
+- What is verified? The agency’s evaluation spans technical features of the platform in question, the business model and market niche, the team and business experience in the blockchain industry and development, strengths and weaknesses of the decentralized infrastructure, and other factors like technical background (e.g. quality of the prototype or source code), and analysis of community feedback.
+- ICORating conducts the research of all aspects of the project, which stand for specific cryptocurrency financial instrument. The company analyzes the investment risks of the project entering ICO, in the following areas:
+	- business model (its relevance, strong and weak points);
+	- market niche (prospects and dynamics of the selected market niches for building business);
+	- team (business experience in the traditional market segment, in blockchain industry, blockchain-development experience);
+	- competition (competitive pressure level on the part of companies with similar business models of the traditional market segment and blockchain-economy);
+	- technical background (availability and quality of the prototype or source code);
+	- analysis of the feedback from the community;
+
+### Relevant White Papers
+
+- [TaaS Fund](http://taas.fund/media/whitepaper.pdf)
+- [DAO Hub](https://forum.daohub.org/uploads/default/original/2X/6/6589831b3add67773e4e5af745f42b73c1712c86.pdf)
+- [EncryptoTel](http://ico.encryptotel.com/assets/pdf/EncryptoTel_WP_v1.pdf)
+
+### Resources
+
+- [http://www.paulgraham.com/angelinvesting.html](http://www.paulgraham.com/angelinvesting.html)
+- [http://venturehacks.com/articles/angel](http://venturehacks.com/articles/angel)
+
+### Notes on becoming a good angel investor (by PG)
+
+- To be a good angel investor, you have to be a good judge of potential.
+- If you can recognize good startup founders by empathizing with them—if you both resonate at the same frequency—then you may already be a better startup picker than the median professional VC
+- What makes **a good founder** ? _Good founders have a healthy respect for reality. But they are relentlessly resourceful. That's the closest I can get to the opposite of hapless. You want to fund people who are relentlessly resourceful. — PG_ 
+- Bet on **people** .
+- The problem is not finding startups, exactly, but finding a stream of reasonably high quality ones.
+- If you want to invest seriously, the way to get started is to bootstrap yourself off your existing connections, be a good investor in the startups you meet that way, and eventually you'll start a chain reaction.
+- To be good, be decisive. There's a hack for being decisive when you're inexperienced: ratchet down the size of your investment till it's an amount you wouldn't care too much about losing.
+
+### The White Paper
+
+You'll find the final version of the paper below:
+
+[ ![PDF Icon](/assets/icon-pdf.svg) Read UnitFund Whitepaper](/assets/unitfund-whitepaper.pdf)
+
+I had to think through a few things, and the white paper provided a good avenue to do so. I included things liked minimum raise amount, maximum raise, investment strategy, etc. It's light on details, but again &mdash; I could always figure those out later.
+
+## Day 3: Draft copy for the Website 🌐
+
+In order to effectively write up some copy for the website, I had to think through some things. Here's how I did that:
+
+### What is the goal?
+
+Get people to invest in the Unit Fund ICO
+
+### Why would people invest in the ICO?
+
+- Opportunity to make high returns (2.5x in 7 years)
+- Greater trust for the fund than **trust** for individual ICOs
+
+### What objections stand between them and investing?
+
+-  **Trust** . Why the heck should I give you my money (instead of invest it myself?)
+
+### How do you establish trust?
+
+- Links from reputable sources
+- Explain the "how" in detail — show that you have a plan.
+- Demonstrate knowledge in the VC industry
+	- White Paper
+	- Blog posts
+- Don't pretend it's guaranteed profit. Everyone knows it is not. Be upfront about the risks and highlight them before allowing anyone to invest
+- Terms and Conditions
+- Contact Us page: address, phone
+- Clear profiles/bios of the people behind the project
+- Showcase figures of authority
+- Herd mentality — show that others have committed capital already
+
+### Remember:
+
+- Use [active voice](https://www.distilled.net/blog/distilled/content/how-to-kick-ass-at-copywriting-for-your-website/) , not passive voice
+- Stay customer-focused ("you" vs. "we")
+-  [Benefits, not features](https://www.useronboard.com/features-vs-benefits/) 
+
+### Page Flow
+
+- Explain value proposition
+	- Headline
+	- Herd mentality — show that others have committed capital already
+	- Feature list
+	- The problem it addresses
+	- How the solution works
+	- Plan / Roadmap
+	- White Paper
+	- Return-prediction tool
+- Tackle Objections
+	- Put terms and conditions, with confirmation modal before investing
+	- Place disclaimer — no guarantees, no investors from the US
+	- Links from reputable sources
+	- Clear profiles/bios of the people behind the project
+	- How to Contribute
+	- FAQs
+	- Contact Us page: address, phone
+
+### Design Guidelines
+
+Since we're after trust, [Blue is the appropriate base color](http://www.creativebloq.com/web-design/12-colours-and-emotions-they-evoke-61515112) to choose.
+
+### Website Draft
+
+Here's [a link to the draft website copy](https://docs.google.com/document/d/1sgBEND7Jaa2T2tD7_YouF95OoSri91HTtqrLtKwXTpI/edit?usp=sharing) that I prepared. 
+
+[ ![PDF Icon](/assets/icon-pdf.svg) Read Website Copy draft](/assets/unitfund-website-copy.pdf)
+
+## Launch the website 🎂 
+
+
