@@ -7,13 +7,13 @@ excerpt: >
   that pulled me into the mesmerizing world of cryptocurrency ICOs.
 ---
 
-So after a few conversations with a friend, and due to the apparent explosion of interest in ICOs in the past few months, I decided to give ICOs a shot. There was no long-term plan here &mdash; I simply wanted to move quickly and run a test to see if it's actually possible to raise a bunch of money for a project. The project itself didn't matter so much &mdash; to quote Miley Cyrus: "it's the climb". 
+So after some conversations with a few friends, and due to the apparent explosion of interest in ICOs in the past few months, I decided to give ICOs a shot. There was no long-term plan here &mdash; I simply wanted to move quickly and run a test to see if it's actually possible to raise a bunch of money for a project. The project itself didn't matter so much &mdash; to quote Miley Cyrus: "it's the climb". 
 
-## Tool of choice
-
-I used [Notion](https://notion.so) for planning and documenting everything. It works great &mdash; mostly like a Google Doc with nested pages &mdash; and so here's what that looked like:
+I knew I'd be sharing the experience later on, so I used [Notion](https://notion.so) for planning and documenting everything. It works great &mdash; mostly like a Google Doc with nested pages. Here's what that looked like:
 
 ![Notion - Blockchain ICO plan](/assets/notion-blockchain.png)
+
+I ported everything over here, so you can just read along.
 
 ## The Plan
 
@@ -21,7 +21,7 @@ I used [Notion](https://notion.so) for planning and documenting everything. It w
 - Find an Idea
 - [15 July] Pre-announce the ICO
 - [16 July] Draft the White Paper
-- [17 July] Draft copy for the Wesbite
+- [17 July] Draft copy for the Website
 - [19 July] Launch the website
 - [20 July] Recruit prominent advisors
 - [21 July] Create a basic Smart Contract
@@ -29,17 +29,19 @@ I used [Notion](https://notion.so) for planning and documenting everything. It w
 - [23 July] Publicity
 - [25 July] Launch ICO
 
-I figured if I could get everything done in about 10 days, it'd be great &mdash; even if the experiment doesn't raise anything. 
+I figured if I could get everything done in about 10 days, it'd be great &mdash; even if the ICO doesn't end up raising anything. It's an experiment after all&hellip; and the worst case scenario means I learn a ton about Ethereum and ICOs in the process. 
 
 ## The Basics 🍼 
 
-Check these excellent resources out, for an explanation of the basics:
+I knew very little about cryptocurrencies and blockchain, so after a lot of reading I found a few resources that provided the most bang for word. 
+
+These are:
 
 -  [Explain Bitcoin like I'm 5](https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833) 
 -  [Blockchain 101: A visual demo &mdash; Video](https://www.youtube.com/watch?v=_160oMzblY8) 
 -  [Ethereum WhitePaper](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html) 
 
-For more on Ethereum, read along:
+Once those are covered, we can proceed to learn more on Ethereum. Go through the last few links before reading along.
 
 ### Ethereum Concepts
 
@@ -131,7 +133,9 @@ In general, there are three types of applications on top of Ethereum.
 
 ### Found an Idea
 
-Simple. Build a VC firm, based on the blockchain.
+Simple. Build a VC firm, based on the blockchain. Not complicated technically, but also solves an apparently existing problem (only available to ultra-high net worth individuals and institutions). Admittedly, I didn't think too much about this &mdash; I just wanted to get the experiment started.
+
+I could've gone with something more exotic (and that actually benefits from the distributed nature of the blockchain), but it's unlikely I would'be been able to make much progress in just 10 days on anything more than the simplest concept.
 
 For the name, I had a number of choices of available domain names:
 
@@ -177,7 +181,6 @@ Reddit fared alot better than BitcoinTalk. The overwhelming feedback from Bitcoi
 
 ## Day 2: Draft the White Paper 📝
 
-Source: [Angelist Funds](https://angel.co/syndicates/for-investors#funds) [+](https://angel.co/funds) , [Republic.co](https://republic.co/crowdsafe) , [Eureeca](https://eureeca.com/Static/HowItWorksInvestors.aspx) , [CrowdCube](https://www.crowdcube.com/investing-your-money) [+](https://help.crowdcube.com/hc/en-us/categories/200958429-Investing) , [CoinList](https://coinlist.co) 
 
 ### Bullet Points
 
@@ -191,6 +194,9 @@ Source: [Angelist Funds](https://angel.co/syndicates/for-investors#funds) [+](ht
 - The last ICO you'll ever need to invest in!
 
 ### How it Works
+
+These points were extracted from various investment providers, including:
+[Angelist Funds](https://angel.co/syndicates/for-investors#funds) [+](https://angel.co/funds) , [Republic.co](https://republic.co/crowdsafe) , [Eureeca](https://eureeca.com/Static/HowItWorksInvestors.aspx) , [CrowdCube](https://www.crowdcube.com/investing-your-money) [+](https://help.crowdcube.com/hc/en-us/categories/200958429-Investing) , [CoinList](https://coinlist.co) 
 
 - All contributing investors are treated as a single "investor"
 - Legal entity which commits the capital will be setup in a tax-free, startup friendly jurisdiction (e.g. British Virgin Islands)
@@ -309,4 +315,63 @@ Here's [a link to the draft website copy](https://docs.google.com/document/d/1sg
 
 ## Launch the website 🎂 
 
+### Guidelines
 
+- Great design is **crucial** . It's a common thread among all of the most successful companies
+- Have a track record that you can boast. Show off your accomplishments
+- Find industry experts and add them to your "board" to build trust. They better be wearing suits.
+
+### Tasks
+
+- Check out previous successful crowdsale companies. You may need to use the Wayback Machine to see what the website looked like at the time of the respective ICOs for each one (since they've probably changed).
+	-  [Storj](https://storj.io/tokensale) ($30M)
+	-  [Brave](https://www.basicattentiontoken.org/) ($35M in 30 seconds)
+	-  [Tezos](https://www.tezos.com/) ($200M)
+	-  [Gigawatt](https://cryptonomos.com/wtt/) (ongoing)
+- Check out [https://99bitcoins.com/bitcoin-scam-test/](https://99bitcoins.com/bitcoin-scam-test/) for guidelines of what to do/not do
+- Hire a copywriter to spruce it up (Skipped)
+- Hire a front-end designer to make it look like a million bucks (Skipped, used a template)
+- Translate to Chinese (Skipped)
+- Compress images
+- Consolidate all scripts / styles into a single file (to reduce HTTP calls)
+- Include proposal update samples (Skipped)
+
+I wasn't able to get all these done (the items marked "Skipped" were skipped). I had a day to put everything together, so time was of the essence.
+
+**TODO:** Talk about the experience with District0x, and their design firm.
+
+## Recruit advisors 👔
+
+Ideally, we'll need advisors in the Investing, Legal space.
+
+I started with people in my direct network. These folks were likely to say Yes, since I knew them all:
+
+- Hasan Haidar [500, Partner]
+- Ramzy Ismail [Techstars, Director]
+- Antonio Sosa [REOF Capital, MD]
+
+There were also people that I *hoped* I'd be able to get onboard. If I closed any of these folks, there's a much higher chance that this project would succeed (because of their reputation). These folks included:
+
+- Dave McClure [ex500]
+- Paul Graham [exYC]
+- Chris Sacca
+- Peter Thiel
+- Mark Cuban
+- Justin Kan [exYC]
+- Garry Tan [exYC]
+- Ashton Kucher
+- Jack Dorsey
+- Kevin O Leary
+- Jessica Alba
+- Robert Herjavec
+- Kevin Systrom
+- Evan Williams
+- Gary Vaynerchuck
+
+I put this list together based on my knowledge of the investment space (and from my experience watching Shark Tank episodes). Many of the people on this list are ex-VCs/Accelerators, since those currently in such roles may face some conflict of interest that would prevent them from getting involved with this fund (even in an advisory capacity). Before reaching out, I needed to have some sort of strategy for approaching them.
+
+Basic strategy I wanted to follow:
+- Prepare a dedicated 60 second video to each one, explaining exactly what you want and what's in it for them.
+- Prepare an image, showing all of the other folks that you plan to close, showing the recipient's name as "Pending" (in a sea of prominent names)
+
+> Note: In retrospect, I should've focused ALOT more on this part. It was clear that this could have a huge impact on the outcome, and yet I did very little in terms of outreach and follow up. I thought that the value proposition (helping startups, making $'s &mdash; in exchange for very little of their time) was convincing enough to solicit at least passing interest from a couple of these investors. Now that I think about it, I may have sounded a little bit like a Nigerian prince to them 🤔. Getting an intro through a mutual connection > cold email.
