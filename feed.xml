@@ -1,5 +1,593 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-07-28T14:26:54+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
-</subtitle><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><entry><title type="html">Real Estate Idea</title><link href="https://yazin.co/real-estate-idea/" rel="alternate" type="text/html" title="Real Estate Idea" /><published>2017-07-02T00:00:00+03:00</published><updated>2017-07-02T00:00:00+03:00</updated><id>https://yazin.co/real-estate-idea</id><content type="html" xml:base="https://yazin.co/real-estate-idea/">&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; a well-defined idea, and I still don’t know what to test — or indeed, whether there’s anything to do here. I do know that people in Bahrain buy &amp;amp; sell real-estate the same way they have in the pre-web era. The only difference is that now there’s a bunch of websites (really, not very different than catalogs, or newspaper classifieds) that advertise properties. The transaction is always initiated via a phone call, followed by a site visit.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="https://yazin.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yazin.co/" rel="alternate" type="text/html" /><updated>2017-08-24T14:31:17+03:00</updated><id>https://yazin.co/</id><title type="html">Yazin builds a SaaS business</title><subtitle>My name's Yazin, and I'm a Product Manager building a Software as a Service (SaaS) business from the ground up.
+</subtitle><author><name>Yazin Alirhayim</name><email>hi@yaz.in</email></author><entry><title type="html">From 0 to ICO, in 10 days</title><link href="https://yazin.co/vc-ico-idea/" rel="alternate" type="text/html" title="From 0 to ICO, in 10 days" /><published>2017-08-23T00:00:00+03:00</published><updated>2017-08-23T00:00:00+03:00</updated><id>https://yazin.co/vc-ico-idea</id><content type="html" xml:base="https://yazin.co/vc-ico-idea/">&lt;p&gt;So after some conversations with a few friends, and due to the apparent explosion of interest in ICOs in the past few months, I decided to give ICOs a shot. There was no long-term plan here — I simply wanted to move quickly and run a test to see if it’s actually possible to raise a bunch of money for a project. The project itself didn’t matter so much — to quote Miley Cyrus: “it’s the climb”.&lt;/p&gt;
+
+&lt;p&gt;I knew I’d be sharing the experience later on, so I used &lt;a href=&quot;https://www.notion.so/invite/link/dc8dc67d56334ea984e7757d90adb311&quot;&gt;Notion&lt;/a&gt; for planning and documenting everything. It works great — mostly like a Google Doc with nested pages. Here’s what that looked like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/notion-blockchain.png&quot; alt=&quot;Notion - Blockchain ICO plan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I ported everything over here, so you can just read along.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-plan&quot;&gt;The Plan&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understand the Basics&lt;/li&gt;
+  &lt;li&gt;Find an Idea&lt;/li&gt;
+  &lt;li&gt;[15 July] Pre-announce the ICO&lt;/li&gt;
+  &lt;li&gt;[16 July] Draft the White Paper&lt;/li&gt;
+  &lt;li&gt;[17 July] Draft copy for the Website&lt;/li&gt;
+  &lt;li&gt;[19 July] Launch the website&lt;/li&gt;
+  &lt;li&gt;[20 July] Recruit prominent advisors&lt;/li&gt;
+  &lt;li&gt;[21 July] Create a basic Smart Contract&lt;/li&gt;
+  &lt;li&gt;[22 July] Reach out to ICO lists&lt;/li&gt;
+  &lt;li&gt;[23 July] Publicity&lt;/li&gt;
+  &lt;li&gt;[25 July] Launch ICO&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I figured if I could get everything done in about 10 days, it’d be great — even if the ICO doesn’t end up raising anything. It’s an experiment after all… and the worst case scenario means I learn a ton about Ethereum and ICOs in the process.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-basics-&quot;&gt;The Basics 🍼&lt;/h2&gt;
+
+&lt;p&gt;At the start, I knew very little about cryptocurrencies and blockchain so some reading was in order. After a lot of wasted time reading vague, regurgitated garbage, I eventually found a few resources that provided the most bang for word.&lt;/p&gt;
+
+&lt;p&gt;These are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@nik5ter/explain-bitcoin-like-im-five-73b4257ac833&quot;&gt;Explain Bitcoin like I’m 5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_160oMzblY8&quot;&gt;Blockchain 101: A visual demo — Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html&quot;&gt;Ethereum WhitePaper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With the basics covered, we can proceed to learn more on Ethereum. Go through the last few links before reading along.&lt;/p&gt;
+
+&lt;h3 id=&quot;ethereum-concepts&quot;&gt;Ethereum Concepts&lt;/h3&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://github.com/ethereum/wiki/wiki/White-Paper&quot;&gt;https://github.com/ethereum/wiki/wiki/White-Paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;section-optional&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;You can &lt;a href=&quot;#skip-ethereum-technical&quot;&gt;skip this section ⏬&lt;/a&gt; if you’re not technical&lt;/strong&gt;.&lt;/p&gt;
+
+  &lt;p&gt;A few of these concepts are crucial to grasp if you’re looking to understand how Ethereum &lt;em&gt;differs&lt;/em&gt; from Bitcoin.&lt;/p&gt;
+
+  &lt;p&gt;For me, these were:&lt;/p&gt;
+
+  &lt;h4 id=&quot;accounts&quot;&gt;Accounts&lt;/h4&gt;
+
+  &lt;p&gt;An Ethereum account contains four fields:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;The &lt;strong&gt;nonce&lt;/strong&gt; , a counter used to make sure each transaction can only be processed once&lt;/li&gt;
+    &lt;li&gt;The account’s current &lt;strong&gt;ether balance&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;The account’s &lt;strong&gt;contract code&lt;/strong&gt; , if present&lt;/li&gt;
+    &lt;li&gt;The account’s &lt;strong&gt;storage&lt;/strong&gt; (empty by default)&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;In general, there are two types of accounts: &lt;strong&gt;externally owned accounts&lt;/strong&gt; , controlled by private keys, and &lt;strong&gt;contract accounts&lt;/strong&gt; , controlled by their contract code.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;An externally owned account has no code&lt;/em&gt; , and one can send messages from an externally owned account by creating and signing a transaction. In a contract account, &lt;em&gt;every time the contract account receives a message its code activates&lt;/em&gt; , allowing it to read and write to internal storage and send other messages or create contracts in turn.&lt;/p&gt;
+
+  &lt;h4 id=&quot;contracts&quot;&gt;Contracts&lt;/h4&gt;
+
+  &lt;p&gt;Note that “contracts” in Ethereum should not be seen as something that should be “fulfilled” or “complied with”; rather, they are more like “autonomous agents” that live inside of the Ethereum execution environment, &lt;strong&gt;always executing a specific piece of code when “poked” by a message or transaction&lt;/strong&gt; , and having direct control over their own ether balance and their own key/value store to keep track of persistent variables.&lt;/p&gt;
+
+  &lt;h4 id=&quot;transactions&quot;&gt;Transactions&lt;/h4&gt;
+
+  &lt;p&gt;The term “transaction” is used in Ethereum to refer to the signed data package that stores a message to be sent from an externally owned account. Transactions contain:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;the recipient of the message;&lt;/li&gt;
+    &lt;li&gt;a signature identifying the sender;&lt;/li&gt;
+    &lt;li&gt;the amount of ether to transfer from the sender to the recipient;&lt;/li&gt;
+    &lt;li&gt;an optional data field;&lt;/li&gt;
+    &lt;li&gt;a &lt;code class=&quot;highlighter-rouge&quot;&gt;STARTGAS&lt;/code&gt; value, representing the maximum number of computational steps the transaction execution is allowed to take; and&lt;/li&gt;
+    &lt;li&gt;a &lt;code class=&quot;highlighter-rouge&quot;&gt;GASPRICE&lt;/code&gt; value, representing the fee the sender pays per computational step.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h4 id=&quot;messages&quot;&gt;Messages&lt;/h4&gt;
+
+  &lt;p&gt;Contracts have the ability to send “messages” to other contracts. Messages are virtual objects that are never serialized and exist only in the Ethereum execution environment. A message contains:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;the sender of the message (implicit);&lt;/li&gt;
+    &lt;li&gt;the recipient of the message;&lt;/li&gt;
+    &lt;li&gt;the amount of ether to transfer alongside the message;&lt;/li&gt;
+    &lt;li&gt;an optional data field; and&lt;/li&gt;
+    &lt;li&gt;a &lt;code class=&quot;highlighter-rouge&quot;&gt;STARTGAS&lt;/code&gt; value.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Essentially, &lt;strong&gt;a message is like a transaction&lt;/strong&gt; , &lt;em&gt;except it is produced by a contract and not an external actor&lt;/em&gt; . A message is produced when a contract currently executing code executes the &lt;code class=&quot;highlighter-rouge&quot;&gt;CALL&lt;/code&gt; opcode, which produces and executes a message. Like a transaction, a message leads to the recipient account running its code.&lt;/p&gt;
+
+  &lt;h3 id=&quot;ethereum-code-execution&quot;&gt;Ethereum Code Execution&lt;/h3&gt;
+
+  &lt;h4 id=&quot;storage&quot;&gt;Storage&lt;/h4&gt;
+
+  &lt;p&gt;The operations have access to three types of space in which to store data:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;The stack, a last-in-first-out container to which values can be pushed and popped&lt;/li&gt;
+    &lt;li&gt;Memory, an infinitely expandable byte array&lt;/li&gt;
+    &lt;li&gt;The contract’s long-term storage, a key/value store. Unlike stack and memory, which reset after computation ends, storage persists for the long term.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;The code can also access the &lt;code class=&quot;highlighter-rouge&quot;&gt;value&lt;/code&gt; , &lt;code class=&quot;highlighter-rouge&quot;&gt;sender&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;data&lt;/code&gt; of the incoming message, as well as block &lt;code class=&quot;highlighter-rouge&quot;&gt;header&lt;/code&gt; data, and the code can also return a byte array of data as an output.&lt;/p&gt;
+
+  &lt;h4 id=&quot;blockchain--mining&quot;&gt;Blockchain &amp;amp; Mining&lt;/h4&gt;
+
+  &lt;p&gt;The main difference between Ethereum and Bitcoin with regard to the blockchain architecture is that, unlike Bitcoin, &lt;strong&gt;Ethereum blocks contain a copy of both the transaction list and the most recent state&lt;/strong&gt; . Aside from that, two other values, the block number and the difficulty, are also stored in the block.&lt;/p&gt;
+
+  &lt;h3 id=&quot;questions-i-had-that-were-later-clarified&quot;&gt;Questions I had that were later clarified:&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;If gas is used every time the program is executed, and the program is executed on multiple nodes (presumably, simultaneously) — what’s to prevent all of the gas from getting consumed &lt;em&gt;each time&lt;/em&gt; ? Answer &lt;a href=&quot;https://ethereum.stackexchange.com/a/21091/14187&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Where is stuff actually &lt;em&gt;stored&lt;/em&gt; ? Answer &lt;a href=&quot;https://ethereum.stackexchange.com/a/6413/14187&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&quot;skip-ethereum-technical&quot;&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;finding-an-idea-&quot;&gt;Finding an Idea 🤔&lt;/h2&gt;
+
+&lt;p&gt;Armed with a better understanding of the blockchain, Bitcoin and more importantly &lt;em&gt;Ethereum&lt;/em&gt; … we’ll need an idea to execute on.&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa&quot;&gt;this&lt;/a&gt;, we should find an idea that can benefit from Network Effects (i.e. the more users that use it, the better it gets).&lt;/p&gt;
+
+&lt;h3 id=&quot;examples-of-successful-icos&quot;&gt;Examples of successful ICOs&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://storj.io/&quot;&gt;Storj.io&lt;/a&gt; : Storj is a system for decentralized file storage. Like Bitcoin or Ethereum, there is no central operator of the network. The project raised $30m through a crowdfund of their token, Storjcoin, on the blockchain.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://steemit.com/&quot;&gt;Steem&lt;/a&gt; : a decentralized Reddit where people are paid to contribute news and content.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You’ll notice one other thing about these “projects” or “apps”: they are really decentralized software protocols. A protocol is a fancy technical term that means: a standard language that lets a bunch of people on the internet work together on a specific problem. — &lt;a href=&quot;https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;found-an-idea&quot;&gt;Found an Idea&lt;/h3&gt;
+
+&lt;p&gt;Simple. Build a VC firm, based on the blockchain. Not complicated technically, but also solves an apparently existing problem (only available to ultra-high net worth individuals and institutions). Admittedly, I didn’t think too much about this — I just wanted to get the experiment started.&lt;/p&gt;
+
+&lt;p&gt;I could’ve gone with something more exotic (and that actually benefits from the distributed nature of the blockchain), but it’s unlikely I would’be been able to make much progress in just 10 days on anything more than the simplest concept.&lt;/p&gt;
+
+&lt;p&gt;For the name, I had a number of choices of available domain names:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://herd.capital&quot;&gt;herd.capital&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://collect.capital&quot;&gt;collect.capital&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://general.capital&quot;&gt;general.capital&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://general.fund&quot;&gt;general.fund&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://every.fund&quot;&gt;every.fund&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://verify.fund&quot;&gt;verify.fund&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://unit.fund&quot;&gt;unit.fund&lt;/a&gt; ← ended up using this&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lot.fund&quot;&gt;lot.fund&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://elect.fund&quot;&gt;elect.fund&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://elected.fund&quot;&gt;elected.fund&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;day-1-pre-announcement-of-the-ico-&quot;&gt;Day 1: Pre-announcement of the ICO 🔔&lt;/h2&gt;
+
+&lt;p&gt;Pre-announcement is the announcement of the future project in the communities of cryptocurrency investors, such as Bitcoin Talk, Reddit and others. You write up an executive summary - a small presentation to investors, in which you explain the essence and purpose of the ICO project. After the executive summary, you get the first feedback, which you can use to gauge investor interest in the project, and questions to fill up your website FAQ section with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You can pre-announce here:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://bitcointalk.org/index.php?board=159.0&lt;/li&gt;
+  &lt;li&gt;https://www.reddit.com/r/icocrypto/&lt;/li&gt;
+  &lt;li&gt;https://www.reddit.com/r/Bitcoin/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Would make sense to use some sort of PR group specializing in crypto, like: &lt;a href=&quot;https://vindynegroup.com/&quot;&gt;https://vindynegroup.com/&lt;/a&gt; or &lt;a href=&quot;http://blockbounty.io/launch-bounty-campaign&quot;&gt;Blockbounty&lt;/a&gt;. I didn’t have time for all that, so I just winged it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Things to include in the pre-announcement:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Summary of the offering
+ &lt;a href=&quot;http://unit.Fund&quot;&gt;Unit.Fund&lt;/a&gt; is an Ethereum based closed-ended fund that allows anyone to invest in the world’s best startups. No minimum investment amounts, and no minimum annual income means that anyone can now invest in the VC fund of the future — and realize the kind of gains only the rich could get access to.&lt;/li&gt;
+  &lt;li&gt;Social media links:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/unit_fund&quot;&gt;https://twitter.com/unit_fund&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://join.slack.com/t/unitfund/shared_invite/MjEzMzk0NDQwODIwLTE1MDAxMjAzOTQtZWQ2MWYwMmIxYQ&quot;&gt;Slack Invite link&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Posted:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I posted the following pre-announcements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcointalk.org/index.php?topic=2023143&quot;&gt;BitcoinTalk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/icocrypto/comments/6nrgio/preico_unit_fund_the_internets_own_vc_firm/&quot;&gt;Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Reddit fared alot better than BitcoinTalk. The overwhelming feedback from BitcoinTalk was to post with an account that’s got more than just “Newbie” status (they didn’t put it quite as nicely though).&lt;/p&gt;
+
+&lt;h2 id=&quot;day-2-draft-the-white-paper-&quot;&gt;Day 2: Draft the White Paper 📝&lt;/h2&gt;
+
+&lt;p&gt;Ah yes, time to polish up those writing skillz. I decided to start with an outline, which I’ll use to organize my thoughts. I’d then expand on that, add some fancy technical terms and references, and then make it look official.&lt;/p&gt;
+
+&lt;h3 id=&quot;bullet-points&quot;&gt;Bullet Points&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We’re the “Y Combinator” of online startups&lt;/li&gt;
+  &lt;li&gt;Today you’re putting money in ICOs and don’t know what you are getting. We solve that problem by pooling the money and vetting our investments ourselves with strict criteria. Oh, and we also have the best VCs as advisors to help guide us.&lt;/li&gt;
+  &lt;li&gt;Flipping the investor model on it’s head. Instead of having a small group of Limited Partners invest all the money (and receive the lion’s share of the return), we’re going to raise the fund from a large group of small investors — sometimes investing as little as $1. We’re democratizing the investment firm.&lt;/li&gt;
+  &lt;li&gt;Run by startup entrepreneurs, with veteran advisors: the best of the venture capital industry&lt;/li&gt;
+  &lt;li&gt;Instant Diversification. One investment gets you exposure to hundreds of investments.&lt;/li&gt;
+  &lt;li&gt;Vetted and Verified.&lt;/li&gt;
+  &lt;li&gt;Like an Index Fund. Get exposure across multiple sectors, stages and geographies.&lt;/li&gt;
+  &lt;li&gt;The last ICO you’ll ever need to invest in!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-it-works&quot;&gt;How it Works&lt;/h3&gt;
+
+&lt;p&gt;These points were extracted from various existing investor platforms, including:
+&lt;a href=&quot;https://angel.co/syndicates/for-investors#funds&quot;&gt;Angelist Funds&lt;/a&gt; &lt;a href=&quot;https://angel.co/funds&quot;&gt;+&lt;/a&gt; , &lt;a href=&quot;https://republic.co/crowdsafe&quot;&gt;Republic.co&lt;/a&gt; , &lt;a href=&quot;https://eureeca.com/Static/HowItWorksInvestors.aspx&quot;&gt;Eureeca&lt;/a&gt; , &lt;a href=&quot;https://www.crowdcube.com/investing-your-money&quot;&gt;CrowdCube&lt;/a&gt; &lt;a href=&quot;https://help.crowdcube.com/hc/en-us/categories/200958429-Investing&quot;&gt;+&lt;/a&gt; , &lt;a href=&quot;https://coinlist.co&quot;&gt;CoinList&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All contributing investors are treated as a single “investor”&lt;/li&gt;
+  &lt;li&gt;Legal entity which commits the capital will be setup in a tax-free, startup friendly jurisdiction (e.g. British Virgin Islands)&lt;/li&gt;
+  &lt;li&gt;Investors can act as early adopters for the portfolio companies (a regular newsletter will got out with deal details to investors, so that they can&lt;/li&gt;
+  &lt;li&gt;How do funds select deals? Funds are designed to give broad market exposure, either to the early-stage market generally or to a specific sector (depending on the fund in which you invest). There is a multi-stage selection process that includes, among other things, evaluating co-investors, conflicts, concentration in any one syndicate and non-arms length transactions. We may not apply the same process to every deal.&lt;/li&gt;
+  &lt;li&gt;What reporting will funds do? Funds will disclose fund investments after they are finalized, and may provide qualitative updates to investors when available. Funds will not post audited financial statements. Funds will not mark valuations to market each year given the extreme difficulty of doing that in an accurate manner for early stage investments.&lt;/li&gt;
+  &lt;li&gt;Who can invest? Anyone over the age of 18 can invest. There are no net worth or income minimums, but U.S. law does limit how much you can invest. You do not need to be a U.S. citizen to invest.&lt;/li&gt;
+  &lt;li&gt;Do you accept US investors? &lt;strong&gt;No.&lt;/strong&gt; The US has very strict rules on marketing to or receiving investment from US persons. Therefore, we do not allow US persons — defined as persons with single or dual US nationality, persons residing in the US, or whose primary bank account is in the US — to invest through Eureeca.&lt;/li&gt;
+  &lt;li&gt;Investors can be private individuals as well as institutions. What they will all have in common is an interest in investing in high-yield potential private businesses.&lt;/li&gt;
+  &lt;li&gt;What due diligence checks are done? The due diligence check ensures that businesses applying to raise funds on Eureeca are legitimate and exist. Eureeca works with third-party compliance firms to assess if the company is incorporated, the duration of operations and that all necessary corporate and legal documents are in place. Additionally, background checks will be done on the team and founders to ensure that there is no history of fraud or other relevant criminal activity.&lt;/li&gt;
+  &lt;li&gt;Did you know that investing in early stage investments can generate an annual return of 27%? Bearing that in mind, how much do you think you would allocate to investing in SMEs per year?&lt;/li&gt;
+  &lt;li&gt;What is verified? The agency’s evaluation spans technical features of the platform in question, the business model and market niche, the team and business experience in the blockchain industry and development, strengths and weaknesses of the decentralized infrastructure, and other factors like technical background (e.g. quality of the prototype or source code), and analysis of community feedback.&lt;/li&gt;
+  &lt;li&gt;ICORating conducts the research of all aspects of the project, which stand for specific cryptocurrency financial instrument. The company analyzes the investment risks of the project entering ICO, in the following areas:
+    &lt;ul&gt;
+      &lt;li&gt;business model (its relevance, strong and weak points);&lt;/li&gt;
+      &lt;li&gt;market niche (prospects and dynamics of the selected market niches for building business);&lt;/li&gt;
+      &lt;li&gt;team (business experience in the traditional market segment, in blockchain industry, blockchain-development experience);&lt;/li&gt;
+      &lt;li&gt;competition (competitive pressure level on the part of companies with similar business models of the traditional market segment and blockchain-economy);&lt;/li&gt;
+      &lt;li&gt;technical background (availability and quality of the prototype or source code);&lt;/li&gt;
+      &lt;li&gt;analysis of the feedback from the community;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;relevant-white-papers&quot;&gt;Relevant White Papers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://taas.fund/media/whitepaper.pdf&quot;&gt;TaaS Fund&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.daohub.org/uploads/default/original/2X/6/6589831b3add67773e4e5af745f42b73c1712c86.pdf&quot;&gt;DAO Hub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ico.encryptotel.com/assets/pdf/EncryptoTel_WP_v1.pdf&quot;&gt;EncryptoTel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.paulgraham.com/angelinvesting.html&quot;&gt;http://www.paulgraham.com/angelinvesting.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://venturehacks.com/articles/angel&quot;&gt;http://venturehacks.com/articles/angel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;notes-on-becoming-a-good-angel-investor-by-pg&quot;&gt;Notes on becoming a good angel investor (by PG)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To be a good angel investor, you have to be a good judge of potential.&lt;/li&gt;
+  &lt;li&gt;If you can recognize good startup founders by empathizing with them—if you both resonate at the same frequency—then you may already be a better startup picker than the median professional VC&lt;/li&gt;
+  &lt;li&gt;What makes &lt;strong&gt;a good founder&lt;/strong&gt; ? &lt;em&gt;Good founders have a healthy respect for reality. But they are relentlessly resourceful. That’s the closest I can get to the opposite of hapless. You want to fund people who are relentlessly resourceful. — PG&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Bet on &lt;strong&gt;people&lt;/strong&gt; .&lt;/li&gt;
+  &lt;li&gt;The problem is not finding startups, exactly, but finding a stream of reasonably high quality ones.&lt;/li&gt;
+  &lt;li&gt;If you want to invest seriously, the way to get started is to bootstrap yourself off your existing connections, be a good investor in the startups you meet that way, and eventually you’ll start a chain reaction.&lt;/li&gt;
+  &lt;li&gt;To be good, be decisive. There’s a hack for being decisive when you’re inexperienced: ratchet down the size of your investment till it’s an amount you wouldn’t care too much about losing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-white-paper&quot;&gt;The White Paper&lt;/h3&gt;
+
+&lt;p&gt;You’ll find the final version of the paper below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/unitfund-whitepaper.pdf&quot;&gt; &lt;img src=&quot;/assets/icon-pdf.svg&quot; alt=&quot;PDF Icon&quot; /&gt; Read UnitFund Whitepaper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had to think through a few things, and the white paper provided a good avenue to do so. I included things liked minimum raise amount, maximum raise, investment strategy, etc. It’s light on details, but again — I could always figure those out later.&lt;/p&gt;
+
+&lt;h2 id=&quot;day-3-draft-copy-for-the-website-&quot;&gt;Day 3: Draft copy for the Website 🌐&lt;/h2&gt;
+
+&lt;p&gt;In order to effectively write up some copy for the website, I had to think through some things. Here’s how I did that:&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-goal&quot;&gt;What is the goal?&lt;/h3&gt;
+
+&lt;p&gt;Get people to invest in the Unit Fund ICO&lt;/p&gt;
+
+&lt;h3 id=&quot;why-would-people-invest-in-the-ico&quot;&gt;Why would people invest in the ICO?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Opportunity to make high returns (2.5x in 7 years)&lt;/li&gt;
+  &lt;li&gt;Greater trust for the fund than &lt;strong&gt;trust&lt;/strong&gt; for individual ICOs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-objections-stand-between-them-and-investing&quot;&gt;What objections stand between them and investing?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Trust&lt;/strong&gt; . Why the heck should I give you my money (instead of invest it myself?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;how-do-you-establish-trust&quot;&gt;How do you establish trust?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Links from reputable sources&lt;/li&gt;
+  &lt;li&gt;Explain the “how” in detail — show that you have a plan.&lt;/li&gt;
+  &lt;li&gt;Demonstrate knowledge in the VC industry
+    &lt;ul&gt;
+      &lt;li&gt;White Paper&lt;/li&gt;
+      &lt;li&gt;Blog posts&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Don’t pretend it’s guaranteed profit. Everyone knows it is not. Be upfront about the risks and highlight them before allowing anyone to invest&lt;/li&gt;
+  &lt;li&gt;Terms and Conditions&lt;/li&gt;
+  &lt;li&gt;Contact Us page: address, phone&lt;/li&gt;
+  &lt;li&gt;Clear profiles/bios of the people behind the project&lt;/li&gt;
+  &lt;li&gt;Showcase figures of authority&lt;/li&gt;
+  &lt;li&gt;Herd mentality — show that others have committed capital already&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;remember&quot;&gt;Remember:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use &lt;a href=&quot;https://www.distilled.net/blog/distilled/content/how-to-kick-ass-at-copywriting-for-your-website/&quot;&gt;active voice&lt;/a&gt; , not passive voice&lt;/li&gt;
+  &lt;li&gt;Stay customer-focused (“you” vs. “we”)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.useronboard.com/features-vs-benefits/&quot;&gt;Benefits, not features&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;page-flow&quot;&gt;Page Flow&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Explain value proposition
+    &lt;ul&gt;
+      &lt;li&gt;Headline&lt;/li&gt;
+      &lt;li&gt;Herd mentality — show that others have committed capital already&lt;/li&gt;
+      &lt;li&gt;Feature list&lt;/li&gt;
+      &lt;li&gt;The problem it addresses&lt;/li&gt;
+      &lt;li&gt;How the solution works&lt;/li&gt;
+      &lt;li&gt;Plan / Roadmap&lt;/li&gt;
+      &lt;li&gt;White Paper&lt;/li&gt;
+      &lt;li&gt;Return-prediction tool&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tackle Objections
+    &lt;ul&gt;
+      &lt;li&gt;Put terms and conditions, with confirmation modal before investing&lt;/li&gt;
+      &lt;li&gt;Place disclaimer — no guarantees, no investors from the US&lt;/li&gt;
+      &lt;li&gt;Links from reputable sources&lt;/li&gt;
+      &lt;li&gt;Clear profiles/bios of the people behind the project&lt;/li&gt;
+      &lt;li&gt;How to Contribute&lt;/li&gt;
+      &lt;li&gt;FAQs&lt;/li&gt;
+      &lt;li&gt;Contact Us page: address, phone&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;design-guidelines&quot;&gt;Design Guidelines&lt;/h3&gt;
+
+&lt;p&gt;Since we’re after trust, &lt;a href=&quot;http://www.creativebloq.com/web-design/12-colours-and-emotions-they-evoke-61515112&quot;&gt;Blue is the appropriate base color&lt;/a&gt; to choose.&lt;/p&gt;
+
+&lt;h3 id=&quot;website-draft&quot;&gt;Website Draft&lt;/h3&gt;
+
+&lt;p&gt;Here’s &lt;a href=&quot;https://docs.google.com/document/d/1sgBEND7Jaa2T2tD7_YouF95OoSri91HTtqrLtKwXTpI/edit?usp=sharing&quot;&gt;a link to the draft website copy&lt;/a&gt; that I prepared.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/unitfund-website-copy.pdf&quot;&gt; &lt;img src=&quot;/assets/icon-pdf.svg&quot; alt=&quot;PDF Icon&quot; /&gt; Read Website Copy draft&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;day-4-launch-the-website-&quot;&gt;Day 4: Launch the website 🎂&lt;/h2&gt;
+
+&lt;h3 id=&quot;guidelines&quot;&gt;Guidelines&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Great design is &lt;strong&gt;crucial&lt;/strong&gt; . It’s a common thread among all of the most successful companies&lt;/li&gt;
+  &lt;li&gt;Have a track record that you can boast. Show off your accomplishments&lt;/li&gt;
+  &lt;li&gt;Find industry experts and add them to your “board” to build trust. They better be wearing suits.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tasks&quot;&gt;Tasks&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Check out previous successful crowdsale companies. You may need to use the Wayback Machine to see what the website looked like at the time of the respective ICOs for each one (since they’ve probably changed).
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://storj.io/tokensale&quot;&gt;Storj&lt;/a&gt; ($30M)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.basicattentiontoken.org/&quot;&gt;Brave&lt;/a&gt; ($35M in 30 seconds)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.tezos.com/&quot;&gt;Tezos&lt;/a&gt; ($200M)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://contribution.district0x.io/&quot;&gt;District0x&lt;/a&gt; ($15M in 1st round)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Check out &lt;a href=&quot;https://99bitcoins.com/bitcoin-scam-test/&quot;&gt;https://99bitcoins.com/bitcoin-scam-test/&lt;/a&gt; for guidelines of what to do/not do&lt;/li&gt;
+  &lt;li&gt;Hire a copywriter to spruce it up (Skipped)&lt;/li&gt;
+  &lt;li&gt;Hire a front-end designer to make it look like a million bucks (Skipped, used a template)&lt;/li&gt;
+  &lt;li&gt;Translate to Chinese (Skipped)&lt;/li&gt;
+  &lt;li&gt;Compress images&lt;/li&gt;
+  &lt;li&gt;Consolidate all scripts / styles into a single file (to reduce HTTP calls)&lt;/li&gt;
+  &lt;li&gt;Include proposal update samples (Skipped)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I wasn’t able to get all these done (the items marked “Skipped” were skipped). I had a day to put everything together, so time was of the essence.&lt;/p&gt;
+
+&lt;h3 id=&quot;design-agency&quot;&gt;Design agency&lt;/h3&gt;
+
+&lt;p&gt;If I’d had more time, I definitely would’ve spent more time on building trust. This includes equal parts design &amp;amp; PR. I spoke to the agency that built &lt;a href=&quot;https://district0x.com/&quot;&gt;District0x gorgeous website&lt;/a&gt; and they would be able to get something similar done for about $15k (I managed to negotiate that down to $10k pre, and $10k after raising the $1m minimum).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/design-agency.png&quot; alt=&quot;$10k pre-ICO, and $10k more if we raise &amp;gt; $1m&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They’d take about 2 months to put everything together. Waiting that long and fronting all that dough would be overkill for this simple experiment; so I passed.&lt;/p&gt;
+
+&lt;p&gt;Check out the live site &lt;a href=&quot;https://unit.fund/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;day-6-recruit-advisors-&quot;&gt;Day 6: Recruit advisors 👔&lt;/h2&gt;
+
+&lt;p&gt;Ideally, we’ll need advisors in the Investing + Legal space.&lt;/p&gt;
+
+&lt;p&gt;I started with people in my direct network. These folks were likely to say Yes, since I knew them all personally (thanks Hasan, Ramzy and Antonio!):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hasan Haidar [500, Partner]&lt;/li&gt;
+  &lt;li&gt;Ramzy Ismail [Techstars, Director]&lt;/li&gt;
+  &lt;li&gt;Antonio Sosa [REOF Capital, MD]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There were also people that I &lt;em&gt;hoped&lt;/em&gt; I’d be able to get onboard. If I closed any of these folks, there’s a much higher chance that this project would succeed (because of their reputation).&lt;/p&gt;
+
+&lt;p&gt;This list included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dave McClure [ex500]&lt;/li&gt;
+  &lt;li&gt;Paul Graham [exYC]&lt;/li&gt;
+  &lt;li&gt;Chris Sacca&lt;/li&gt;
+  &lt;li&gt;Mark Cuban&lt;/li&gt;
+  &lt;li&gt;Justin Kan [exYC]&lt;/li&gt;
+  &lt;li&gt;Jack Dorsey&lt;/li&gt;
+  &lt;li&gt;Kevin O Leary&lt;/li&gt;
+  &lt;li&gt;Jessica Alba&lt;/li&gt;
+  &lt;li&gt;Robert Herjavec&lt;/li&gt;
+  &lt;li&gt;Kevin Systrom&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I put it together based on my knowledge of the investment space (and from my experience watching Shark Tank episodes). Many of the people on this list are &lt;strong&gt;ex-&lt;/strong&gt;VCs/Accelerators (since those &lt;em&gt;currently&lt;/em&gt; working at VCs/accelerators may face a conflict of interest).&lt;/p&gt;
+
+&lt;p&gt;Before reaching out, I needed to have some sort of strategy for approaching them:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Prepare a dedicated 60 second video to each one, explaining exactly what you want and what’s in it for them.&lt;/li&gt;
+  &lt;li&gt;Prepare an image, showing all of the other folks that you plan to close, showing the recipient’s name as “Pending” (in a sea of prominent names)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As for &lt;em&gt;how&lt;/em&gt; best to reach these folks, I would:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Reach through mutual connections on LinkedIn (i.e. 2nd degree connections)&lt;/li&gt;
+  &lt;li&gt;Use &lt;a href=&quot;https://thehustle.co/the-linkedin-hack-that-made-me-120000&quot;&gt;the LinkedIn hack™&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cold-email (if all else fails)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;1-the-civilized-linkedin-mutual-connections-strategy&quot;&gt;1. The civilized LinkedIn mutual connections strategy&lt;/h3&gt;
+&lt;p&gt;This strategy proved utterly useless. For someone else that’s well connected in the valley, it probably would’ve worked just fine. However, I only had a first/second degree connection with one person (Dave McClure) and I didn’t really know him all that well — we’d met once in Bahrain, and he probably didn’t remember.&lt;/p&gt;
+
+&lt;p&gt;I messaged him and - surprise, surprise - heard nothing back.&lt;/p&gt;
+
+&lt;p&gt;All other connections were 3rd degree; fat chance that’ll work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/not-second-degree-connection.png&quot; alt=&quot;Jessica Alba is not a second-degree connection&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-the-linkedin-hack&quot;&gt;2. The LinkedIn hack&lt;/h3&gt;
+&lt;p&gt;I’d recommend reading through the &lt;a href=&quot;https://thehustle.co/the-linkedin-hack-that-made-me-120000&quot;&gt;original post&lt;/a&gt; for details on the mechanics of this method. My approach matched that to the dot. I would have to setup a campaign for each of the 10 people on the list, record a video and post it on a specially designed landing page. Alot of work, but hopefully it’ll pay off.&lt;/p&gt;
+
+&lt;p&gt;This will cost about $10/person x 10 people = $100 max.&lt;/p&gt;
+
+&lt;p&gt;The script I used for the ad was pretty simple:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/paul-ad.png&quot; alt=&quot;PG Ad&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clicking it will take you to a page similar to the one used in the hack article. It has a 60 second video - no fancy editing or anything. It also includes my contact bits:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/a-message-for-paul.png&quot; alt=&quot;A message for Paul Graham&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;… and here’s a sample video that I made:&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube.com/embed/9R-LDEfhzPw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;There are slight variations in the messages. For example, for Mr.Wonderful (Kevin o Leary), I mentioned the 2% returns first because y’know, the man likes his dollars.&lt;/p&gt;
+
+&lt;p&gt;One thing I found that’s very different from &lt;a href=&quot;https://thehustle.co/the-linkedin-hack-that-made-me-120000&quot;&gt;Jack’s experience&lt;/a&gt; is that the minimum size of the target audience is no longer 7. It’s about 400. That means we can’t just target a handful of folks that know each target individual — nope, we have to target their companies (and if they’ve worked in a few places, then we’ll target those too).&lt;/p&gt;
+
+&lt;p&gt;Now that I think about it, an alternative may have been to create 399 fake LinkedIn accounts that you &lt;em&gt;know&lt;/em&gt; won’t see the ad; its not something I tried personally though :)&lt;/p&gt;
+
+&lt;h2 id=&quot;day-7-create-a-basic-smart-contract-&quot;&gt;Day 7: Create a Basic Smart Contract 💻&lt;/h2&gt;
+
+&lt;p&gt;Ethereum.org has &lt;a href=&quot;https://www.ethereum.org/crowdsale&quot;&gt;a simple tutorial on how to code one up&lt;/a&gt; . You can also create your first basic token in 15 seconds using &lt;a href=&quot;http://thetokenfactory.com/#/factory&quot;&gt;The Token Factory&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://solidity.readthedocs.io/en/latest/&quot;&gt;Solidity Docs&lt;/a&gt; are an excellent introduction to the Solidity programming language (it’s sorta like JS). Also, found a good base template &lt;a href=&quot;https://etherscan.io/address/0x725803315519de78D232265A8f1040f054e70B98#code&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While I did get pretty familiar with Solidity early on, I couldn’t risk all those potential $’s by building a smart contract myself (having just completed the ‘Hello World’ Ethereum tutorial). Instead, I &lt;a href=&quot;https://upwork.com/mobile/freelances/~01af74f7d496c1817b&quot;&gt;hired Andrew Zubko from UpWork&lt;/a&gt; to get the job done on a tight deadline — he delivered, and the project cost me $1,000 in total (including deployment to the Ethereum blockchain).&lt;/p&gt;
+
+&lt;p&gt;You’ll find the code for the contract &lt;a href=&quot;https://github.com/unitfund/contract&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;day-8-reach-out-to-ico-lists-&quot;&gt;Day 8: Reach out to ICO lists 🛎&lt;/h2&gt;
+
+&lt;p&gt;Here, I did not have luck on my side. All of the lists I found had some sort of priority paid option — committing the capital sin of not &lt;em&gt;paying&lt;/em&gt; these lists will result in your ICO languishing in wait for days, if not weeks.&lt;/p&gt;
+
+&lt;p&gt;Here’s the list of places I reached out to (inspired by &lt;a href=&quot;https://www.coindesk.com/the-ultimate-list-of-resources-for-researching-and-launching-icos/&quot;&gt;this list&lt;/a&gt;):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://www.smithandcrown.com/icos/&lt;/li&gt;
+  &lt;li&gt;https://www.coinschedule.com/&lt;/li&gt;
+  &lt;li&gt;https://icotracker.net/&lt;/li&gt;
+  &lt;li&gt;https://www.ico-list.com/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;day-9-publicity-&quot;&gt;Day 9: Publicity 🗞&lt;/h2&gt;
+
+&lt;p&gt;I also reached out to various news outlets. Here, they request payment for “Press Releases”, often ~$1k each next to a free “tips” option (which I opted for):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;http://www.coindesk.com/&lt;/li&gt;
+  &lt;li&gt;https://www.cryptocoinsnews.com/&lt;/li&gt;
+  &lt;li&gt;https://cointelegraph.com/&lt;/li&gt;
+  &lt;li&gt;https://bitcoinmagazine.com/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’re willing to spend ~$20k on Marketing, you could probably get listed on all of these places. I had no intention of paying that sort of money, so I passed.&lt;/p&gt;
+
+&lt;p&gt;I drafted a Press Release and posted it on every site that had a form:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;A VC fund from the future&lt;/strong&gt;
+  A very different type of VC fund has just launched; it’s similar to traditional VCs in many aspects, but a crucial one: it doesn’t depend on wealthy investors.
+  &lt;br /&gt;
+  The UnitFund has launched the first-ever crowd-funded Venture Capital fund, democratizing access to what was once exclusively available to institutions and to the ultra-wealthy. Yazin Alirhayim, General Partner at UnitFund, explains: “Traditional VC funds, they’re very good at what they do. The top quarter of all funds see a healthy 20%+ annual return on capital invested[1]. They’ll typically double your money in under 5 years. The problem is, normal folks don’t have access to VC funds: these firms only deal with exclusive “Limited Partners” – institutions investors and ultra-high net worth individuals – for raising capital. We’re changing that.”
+  &lt;br /&gt;
+  In order to raise capital for their first ever fund, the UnitFund has resorted to an Intial Coin Offering (ICO), allowing early investors to purchase Unit Fund Tokens in exchange for Ethereum tokens (currently valued at about $175/ETH). They’ve capped the fund at $50M. “This is a closed-ended fund – once the Tokensale (ICO) is over, no one will be able to purchase additional tokens. The fund will be final.”, Alirhayim explained. “We may consider launching another fund sometime in the future”.
+  &lt;br /&gt;
+  The past few months have seen a sharp increase in the number of ICOs, and it is becoming increasingly difficult for individual investors to perform the thorough due diligence required in order to make an informed investment decision. “We employ strict industry-standard due diligence on every single investment we make – we vet every deal, and meet with the partners involved before choosing to invest”. This allows the fund to avoid “scam” ICOs that are nothing more than just an idea with a website and white paper.
+  &lt;br /&gt;
+  The UnitFund ICO starts tomorrow, July 26 at 9AM CET. It concludes on August 26. The first time such a fund was attempted, by Blockchain Capital in April 2017, they raised $10M in under 6 hours[2].
+  &lt;br /&gt;
+  More details on the UnitFund website: https://unit.fund/&lt;br /&gt;
+  [1]: VC fund returns in 2016, https://www.cbinsights.com/investor-mosaic&lt;br /&gt;
+  [2]: tokenhub.com&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I originally planned to “launch” the ICO by July 25th but I pushed it out a day when I realized that publicity wasn’t going so well. I wasn’t able to get listed on any of the ICO lists (until after the ICO). I also didn’t have any advisors on LinkedIn yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;You didn’t forget that this was an experiment did you? The results are the most important part of this post, so let’s dive right in.&lt;/p&gt;
+
+&lt;p&gt;At this point the ICO is &lt;em&gt;almost over&lt;/em&gt; (it ends Aug 26, 9AM BST). I don’t suspect anything major is going to happen in the closing few hours, so these results are fresh as of Aug 23rd&lt;/p&gt;
+
+&lt;h3 id=&quot;linkedin-hack&quot;&gt;LinkedIn hack&lt;/h3&gt;
+
+&lt;p&gt;This hack &lt;strong&gt;failed&lt;/strong&gt; at the primary mission, which was to get an advisor onboard.&lt;/p&gt;
+
+&lt;p&gt;I initially ran a trial with Dave McClure, his results are here:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dave-mcclure-trial.png&quot; alt=&quot;Dave McClure results&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here are the overall results for all the LinkedIn ads I ran:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/final-ad-results.png&quot; alt=&quot;LinkedIn Ads Results&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I got a few cute emails saying “wow, nice way to grab attention” from some of the people that saw it, but no contact from any of the 10 advisor prospects.&lt;/p&gt;
+
+&lt;p&gt;However, there was an interesting side-effect.&lt;/p&gt;
+
+&lt;h3 id=&quot;almost-final-score&quot;&gt;(Almost) Final Score&lt;/h3&gt;
+
+&lt;p&gt;Some people actually saw the ad, and invested. Specifically, it was 2 people that &lt;strong&gt;I do not know&lt;/strong&gt;  … who contributed a total of ~$10.5k:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/final-score.png&quot; alt=&quot;Final contribution breakdown&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s the total amount raised as of this morning, with just about one day left.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Once the ICO ends, I’ll be refunding all of the funds raised if the total remains below the $1M minimum I advertised.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In conclusion, not any random person with a website and a white paper will raise millions of dollars in an ICO. This experiment failed to raise the $1M minimum, despite all the effort I put into getting it out. If I were to try again, I’d focus more on PR &amp;amp; Design — ICOs are funded in crowds, or not at all.&lt;/em&gt;&lt;/p&gt;
+
+&lt;style&gt;
+.section-optional {
+  background-color:#eee;
+  font-size:95%;
+  padding:10px;
+  border-radius:5px;
+}
+&lt;/style&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yaz.in</email></author><summary type="html">I broke the trail of the Real Estate idea to pursue what I considered a unique opportunity that pulled me into the mesmerizing world of cryptocurrency ICOs.</summary></entry><entry><title type="html">Real Estate Idea</title><link href="https://yazin.co/real-estate-idea/" rel="alternate" type="text/html" title="Real Estate Idea" /><published>2017-07-02T00:00:00+03:00</published><updated>2017-07-02T00:00:00+03:00</updated><id>https://yazin.co/real-estate-idea</id><content type="html" xml:base="https://yazin.co/real-estate-idea/">&lt;p&gt;This is &lt;strong&gt;not&lt;/strong&gt; a well-defined idea, and I still don’t know what to test — or indeed, whether there’s anything to do here. I do know that people in Bahrain buy &amp;amp; sell real-estate the same way they have in the pre-web era. The only difference is that now there’s a bunch of websites (really, not very different than catalogs, or newspaper classifieds) that advertise properties. The transaction is always initiated via a phone call, followed by a site visit.&lt;/p&gt;
 
 &lt;p&gt;There’s certainly room for improvement — but before doing anything, the first step has to be about discovery. Don’t try to fix something you don’t fully understand.&lt;/p&gt;
 
@@ -112,7 +700,7 @@ One thing I picked up from the conversations is that real estate agents have a d
 
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; I’m working on a side-project so this’ll be on hold for a few days while I see what transpires with the other idea. Expect an update on Wed, 19th July.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Update (28/July)&lt;/strong&gt;: Ok, so the other project took longer than I expected, and is already underway. It hasn’t concluded yet (it’ll take about a month from today), but it won’t take up as much time from me as it did these past 2 weeks. I’ll be continuing with this project from the 4th of August, once I’m back from a quick trip.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator/" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator/">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea/&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update (28/July)&lt;/strong&gt;: Ok, so the other project took longer than I expected, and is already underway. It hasn’t concluded yet (it’ll take about a month from today), but it won’t take up as much time from me as it did these past 2 weeks. I’ll be continuing with this project from the 4th of August, once I’m back from a quick trip.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yaz.in</email></author><summary type="html">This isn't a particular idea, but a possibility. I've had very little experience with real estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or for the agents themselves.</summary></entry><entry><title type="html">The Validator</title><link href="https://yazin.co/the-validator/" rel="alternate" type="text/html" title="The Validator" /><published>2017-06-30T00:00:00+03:00</published><updated>2017-06-30T00:00:00+03:00</updated><id>https://yazin.co/the-validator</id><content type="html" xml:base="https://yazin.co/the-validator/">&lt;p&gt;The &lt;a href=&quot;/the-gforms-idea/&quot;&gt;GForms’s Landing page&lt;/a&gt; took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?&lt;/p&gt;
 
 &lt;p&gt;You bet.&lt;/p&gt;
 
@@ -210,7 +798,7 @@ One thing I picked up from the conversations is that real estate agents have a d
 
 &lt;p&gt;&lt;img src=&quot;/assets/analytics-validate-3.png&quot; alt=&quot;Analytics - Final&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The numbers speak for themselves — this experiment failed.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><summary type="html">I found it very time consuming to test out the last 2 ideas, and I'm wondering if there's a quicker way to do that specifically for testing out product ideas. That's what I'll be testing with this experiment.</summary></entry><entry><title type="html">The Gforms Idea</title><link href="https://yazin.co/the-gforms-idea/" rel="alternate" type="text/html" title="The Gforms Idea" /><published>2017-06-29T00:00:00+03:00</published><updated>2017-06-29T00:00:00+03:00</updated><id>https://yazin.co/the-gforms-idea</id><content type="html" xml:base="https://yazin.co/the-gforms-idea/">&lt;p&gt;&lt;em&gt;Note: I actually ran this experiment about 2 weeks before I posted this, but wanted to document everything here — hence this post&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The numbers speak for themselves — this experiment failed.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yaz.in</email></author><summary type="html">I found it very time consuming to test out the last 2 ideas, and I'm wondering if there's a quicker way to do that specifically for testing out product ideas. That's what I'll be testing with this experiment.</summary></entry><entry><title type="html">The Gforms Idea</title><link href="https://yazin.co/the-gforms-idea/" rel="alternate" type="text/html" title="The Gforms Idea" /><published>2017-06-29T00:00:00+03:00</published><updated>2017-06-29T00:00:00+03:00</updated><id>https://yazin.co/the-gforms-idea</id><content type="html" xml:base="https://yazin.co/the-gforms-idea/">&lt;p&gt;&lt;em&gt;Note: I actually ran this experiment about 2 weeks before I posted this, but wanted to document everything here — hence this post&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Alright, let’s hit another idea and see what we can learn. This one goes like so:&lt;/p&gt;
 
@@ -304,7 +892,7 @@ One thing I picked up from the conversations is that real estate agents have a d
 
 &lt;h2 id=&quot;verdict&quot;&gt;Verdict&lt;/h2&gt;
 
-&lt;p&gt;The numbers have spoken — this idea is officially dead.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><summary type="html">I use Google Forms alot, primarily to track my finances (and also with calorie counting). One quirk is that they don't have an offline solution &amp;mdash; I'm wondering if there are other people out there that find that valuable enough to pay for.</summary></entry><entry><title type="html">The Goals Idea</title><link href="https://yazin.co/the-goals-idea/" rel="alternate" type="text/html" title="The Goals Idea" /><published>2017-06-27T00:00:00+03:00</published><updated>2017-06-27T00:00:00+03:00</updated><id>https://yazin.co/the-goals-idea</id><content type="html" xml:base="https://yazin.co/the-goals-idea/">&lt;p&gt;The first idea I’ll be testing is one that I’ve had for a while. The description I had from &lt;a href=&quot;/ideas/&quot;&gt;the Ideas list&lt;/a&gt; is this:&lt;/p&gt;
+&lt;p&gt;The numbers have spoken — this idea is officially dead.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yaz.in</email></author><summary type="html">I use Google Forms alot, primarily to track my finances (and also with calorie counting). One quirk is that they don't have an offline solution &amp;mdash; I'm wondering if there are other people out there that find that valuable enough to pay for.</summary></entry><entry><title type="html">The Goals Idea</title><link href="https://yazin.co/the-goals-idea/" rel="alternate" type="text/html" title="The Goals Idea" /><published>2017-06-27T00:00:00+03:00</published><updated>2017-06-27T00:00:00+03:00</updated><id>https://yazin.co/the-goals-idea</id><content type="html" xml:base="https://yazin.co/the-goals-idea/">&lt;p&gt;The first idea I’ll be testing is one that I’ve had for a while. The description I had from &lt;a href=&quot;/ideas/&quot;&gt;the Ideas list&lt;/a&gt; is this:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The way that large companies propagate high-level goals down from leadership to employees across the company is broken. It ends up becoming a formality, done over Powerpoint slides twice a year (beginning and end, during performance reviews). This is a lost opportunity, one where goals could serve as the glue that ties employees daily work towards a greater company objective. Coupled with transparency, employees can see exactly how they impact the greater goals.&lt;/p&gt;
@@ -402,7 +990,7 @@ One thing I picked up from the conversations is that real estate agents have a d
 
 &lt;h2 id=&quot;verdict&quot;&gt;Verdict&lt;/h2&gt;
 
-&lt;p&gt;Experiment failed, because I was unable to find people that face the purported problem this idea solves.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><summary type="html">This is the first idea I'm testing. The idea is one I've had for a while, since my time at GE. I'd like to see if I can get this hashed out and tested, quickly.</summary></entry><entry><title type="html">Finding An Idea</title><link href="https://yazin.co/finding-an-idea/" rel="alternate" type="text/html" title="Finding An Idea" /><published>2017-06-25T00:00:00+03:00</published><updated>2017-06-25T00:00:00+03:00</updated><id>https://yazin.co/finding-an-idea</id><content type="html" xml:base="https://yazin.co/finding-an-idea/">&lt;h1 id=&quot;getting-an-idea&quot;&gt;Getting an idea&lt;/h1&gt;
+&lt;p&gt;Experiment failed, because I was unable to find people that face the purported problem this idea solves.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yaz.in</email></author><summary type="html">This is the first idea I'm testing. The idea is one I've had for a while, since my time at GE. I'd like to see if I can get this hashed out and tested, quickly.</summary></entry><entry><title type="html">Finding An Idea</title><link href="https://yazin.co/finding-an-idea/" rel="alternate" type="text/html" title="Finding An Idea" /><published>2017-06-25T00:00:00+03:00</published><updated>2017-06-25T00:00:00+03:00</updated><id>https://yazin.co/finding-an-idea</id><content type="html" xml:base="https://yazin.co/finding-an-idea/">&lt;h1 id=&quot;getting-an-idea&quot;&gt;Getting an idea&lt;/h1&gt;
 
 &lt;p&gt;Finding something to work on can be daunting. When you choose to work on something, you’re also choosing &lt;em&gt;not&lt;/em&gt; to work on countless other things. The FOMO beast in me wreaks havoc at the mere mention of such a quandary.&lt;/p&gt;
 
@@ -603,4 +1191,4 @@ Recent entrants: Instashop (=Instacart).&lt;/li&gt;
   &lt;li&gt;Find a key insight for each remaining idea _ (where possible)_&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Now, I also want to leave room for random ideas that might not necessarily have surfaced through any of the previous steps. It’s totally fine to not overthink them, as long as we develop a quick way to test these ideas for viability.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yazin.co</email></author><summary type="html">The first step is finding an idea, one of the most intimidating parts of this whole process. In this post, I describe how I go about tackling this</summary></entry></feed>
+&lt;p&gt;Now, I also want to leave room for random ideas that might not necessarily have surfaced through any of the previous steps. It’s totally fine to not overthink them, as long as we develop a quick way to test these ideas for viability.&lt;/p&gt;</content><author><name>Yazin Alirhayim</name><email>hi@yaz.in</email></author><summary type="html">The first step is finding an idea, one of the most intimidating parts of this whole process. In this post, I describe how I go about tackling this</summary></entry></feed>
