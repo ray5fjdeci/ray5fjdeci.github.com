@@ -6,15 +6,19 @@ excerpt: >
   I broke the trail of the Real Estate idea to pursue what I considered a unique opportunity
   that pulled me into the mesmerizing world of cryptocurrency ICOs.
 ---
-So after some conversations with a few friends, and due to the apparent explosion of interest in ICOs in the past few months, I decided to give ICOs a shot. There was no long-term plan here &mdash; I simply wanted to move quickly and run a test to see if it's actually possible to raise a bunch of money for a project. The project itself didn't matter so much &mdash; to quote Miley Cyrus: "it's the climb".
+So after some conversations with a few friends, and due to the apparent explosion of interest in ICOs in the past few months, I thought: "Hey, why don't I give this ICO thing a shot?"
 
-I knew I'd be sharing the experience later on, so I used [Notion](https://www.notion.so/invite/link/dc8dc67d56334ea984e7757d90adb311) for planning and documenting everything. It works great &mdash; mostly like a Google Doc with nested pages. Here's what that looked like:
+There wasn't any long-term plan here &mdash; I just wanted to move quickly and run an experiment to see if it's really as easy to raise millions of dollars as the media made it out to be. The project itself didn't matter &mdash; to quote Miley Cyrus: "it's the climb".
+
+I knew I'd be sharing the experience later on, so I used [Notion](https://www.notion.so/invite/link/dc8dc67d56334ea984e7757d90adb311) for planning and documenting everything. It works great &mdash; think Google Docs, with nested pages.
+
+This is what it looked like:
 
 ![Notion - Blockchain ICO plan](/assets/notion-blockchain.png)
 
-I ported everything over here, so you can just read along.
+I ported everything over here, so you can just read right along. I'm sharing *all* the details here, so this'll take a while &mdash; grab a cup of coffee and kick it back.
 
-## The Plan
+## The Action Plan
 
 - Understand the Basics
 - Find an Idea
