@@ -20,17 +20,17 @@ This particular list include a dump of all the technologies that match my backgr
 ## Bitcoin/Blockchain
 
 - [Consumer] Remittance network across borders
-- [B2B] Create a VC fund that's wholly funded by individual investors (and not traditional limited partners)
+- [Consumer] [~~UnitFund~~]({% post_url 2017-08-23-vc-ico-idea %}) Create a VC fund that's wholly funded by individual investors (and not traditional limited partners)
 
 ## Machine Learning
 
--  **GE** : Can be used to diagnose problems with critical machinery (the way the Machinery Diagnostics folks used to do when I was there, and still do). 
+-  **GE** : Can be used to diagnose problems with critical machinery (the way the Machinery Diagnostics folks used to do when I was there, and still do).
 -  **Canvas.bh:** Image effects, enlargement without loss in quality. There's an opportunity to make real magic happen with Machine Learning and Imaging.
 -  **White/Payfort:** The most obvious one is anti-fraud, from both the transactional side as well as the merchant on-boarding side.
 
 ## Insurance
 
--  **Payfort [B2B]:** Crowdsourced insurance against chargebacks from merchants themselves as opposed to some 3rd party.
+-  **Payfort [B2B]:** Crowdsourced insurance against chargebacks from merchants themselves as opposed to some 3rd party. (How do you avoid/address adverse selection?)
 -  **All [Consumer]:** Founder/startup insurance, where you get a payout if your idea fails to get traction to keep you alive until the next thing (or until you get hired). This could be funded by hiring companies.
 
 ## Human Augmentation
@@ -43,7 +43,7 @@ This particular list include a dump of all the technologies that match my backgr
 
 ## Other, random ideas
 
-- "Wasoot" &mdash; automatically follow people that have similar interests. 
+- "Wasoot" &mdash; automatically follow people that have similar interests.
 - "Google Analytics for SaaS" [B2B] — a map of the path that your user takes when interacting with you application. See exactly what actions are taken, and which ones result in your users dropping off.
 - Online community for the competitive startup founders [Consumer]; those motivated by competition. Focus on transparency, learning and most importantly: _results_ .
 - [RealEstate 2.0]({% post_url 2017-07-02-real-estate-idea %}): How can you make it 10x easier to get a property sold? How can you make it 10x better for sellers/buyers?
