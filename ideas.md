@@ -21,16 +21,17 @@ This particular list include a dump of all the technologies that match my backgr
 ## Bitcoin/Blockchain
 
 - [Consumer] Remittance network across borders
+- [Consumer] [~~UnitFund~~]({% post_url 2017-08-23-vc-ico-idea %}) Create a VC fund that's wholly funded by individual investors (and not traditional limited partners)
 
 ## Machine Learning
 
--  **GE** : Can be used to diagnose problems with critical machinery (the way the Machinery Diagnostics folks used to do when I was there, and still do). 
+-  **GE** : Can be used to diagnose problems with critical machinery (the way the Machinery Diagnostics folks used to do when I was there, and still do).
 -  **Canvas.bh:** Image effects, enlargement without loss in quality. There's an opportunity to make real magic happen with Machine Learning and Imaging.
 -  **White/Payfort:** The most obvious one is anti-fraud, from both the transactional side as well as the merchant on-boarding side.
 
 ## Insurance
 
--  **Payfort [B2B]:** Crowdsourced insurance against chargebacks from merchants themselves as opposed to some 3rd party.
+-  **Payfort [B2B]:** Crowdsourced insurance against chargebacks from merchants themselves as opposed to some 3rd party. (How do you avoid/address adverse selection?)
 -  **All [Consumer]:** Founder/startup insurance, where you get a payout if your idea fails to get traction to keep you alive until the next thing (or until you get hired). This could be funded by hiring companies.
 
 ## Human Augmentation
@@ -43,10 +44,10 @@ This particular list include a dump of all the technologies that match my backgr
 
 ## Other, random ideas
 
-- "Wasoot" &mdash; automatically follow people that have similar interests. 
+- "Wasoot" &mdash; automatically follow people that have similar interests.
 - "Google Analytics for SaaS" [B2B] — a map of the path that your user takes when interacting with you application. See exactly what actions are taken, and which ones result in your users dropping off.
 - Online community for the competitive startup founders [Consumer]; those motivated by competition. Focus on transparency, learning and most importantly: _results_ .
-- RealEstate 2.0: How can you make it 10x easier to get a property sold? How can you make it 10x better for sellers/buyers?
+- [RealEstate 2.0]({% post_url 2017-07-02-real-estate-idea %}): How can you make it 10x easier to get a property sold? How can you make it 10x better for sellers/buyers?
 - Simple Workflow tool (like SupportCentral @ GE, KissFlow) that makes it easier to get stuff done inside teams. Drag and drop, done.
 - Private photo sharing, with the Middle East in mind [Consumer]. I suck at sharing photos that I take — and usually see sending them over Whatsapp as such a chore (it's a bad UX either way, for both sender and receiver). Better way?
 - [~~GoogleForms++~~]({% post_url 2017-06-29-the-gforms-idea %}): A forms app that works on mobile and is offline. Maybe include an Android widget so you can tap, tap, done.
@@ -56,5 +57,6 @@ This particular list include a dump of all the technologies that match my backgr
   - Canvas art, where you offer a mobile app where customers can upload pictures from their recent vacations, and they are printed and delivered from local canvas printers (at a margin). The advantage is that you can expand geographically anywhere you have a few key local suppliers. Also, you don't worry about inventory, etc.
   - Home repair services, where you take a photo / video of whatever needs fixing and send it off to local repair shops (plumbers, electricians, etc.). You have a handyman in your pocket, with reviews to keep off the bad folks. 
 - Insurance over Ethereum. The question is how you get "real world" input into Ethereum.
+- Shipping products out to customers is tough because there are usually many different sized boxes that you need. Since boxes are made in factories, and often with minimum order quantities that run into the thousands, it's crazy to order more than a couple of sizes for a small business (and they don't even fit all that well many times). What if there was a way to do better? Use a robotic arm + raw material to automatically build perfect sized boxes *each time*?
 
 It's clear that I've got *A LOT* of ideas, and this list will only grow larger with time. Hence, I need to figure out a way to validate ideas quickly. I'll put a process in place once I've tested a few of these ideas out.

@@ -20,7 +20,7 @@ It's so simple — but _only_ in retrospect. The idea now is to come up with suc
 The high-level approach is a simple one:
 
 1. Get as many ideas as possible. The more, the merrier.
-2. Mercilessly kill the bad ideas. Oh, and make sure you do it quickly and painlessly.
+2. Mercilessly kill the bad ideas. Oh, and make sure you do it *quickly*.
 
 The rest of this post will include a framework I devised for brainstorming ideas based on my unique experiences and interests. The approach is one that can be generalized to your case, with a little bit of self-awareness.
 
@@ -54,7 +54,7 @@ We can benefit from their insight here to help us get from a broad matrix of mar
 
 Some examples:
 
-- Ben Evans (click to expand)
+- Ben Evans
   - Machine Learning
   - Electric & Autonomous cars
   - Virtual & Mixed reality
@@ -175,3 +175,9 @@ To make this all work, I'll start by:
 
 Now, I also want to leave room for random ideas that might not necessarily have surfaced through any of the previous steps. It's totally fine to not overthink them, as long as we develop a quick way to test these ideas for viability.
 
+## How to eliminate bad ideas quickly
+
+- Talk to a founder / CEO in the space and ask for his/her opinion on the idea. If there are obvious flaws and they give you a strong recommendation to not pursue the idea, then stop.
+- Test it out yourself, in a small-scale experiment that communicates the Unique Value Proposition to the target audience and see if they bite. Ideally, this would involve them paying money for whatever product/service it is. 
+
+Remember, the only way to truly dismiss an idea is to let the market kill it. There's no remorse for killing ideas quickly &mdash; the faster, the better. It means I'll be able to test more ideas, in a shorter time span.

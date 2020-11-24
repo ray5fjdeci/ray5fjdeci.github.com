@@ -1,0 +1,28 @@
+@import "//cdn-images.mailchimp.com/embedcode/slim-10_7.css";
+
+#mc_embed_signup {
+  background:#fff;
+  clear:left;
+  font: 14px Helvetica,Arial,sans-serif;
+
+  form {
+    /* full-width in the sidebar */
+    input.email {
+      width: 100%;
+    }
+
+    @include breakpoint(max-width ($large - 1px)) {
+      padding: 0 25px 0 15px;
+
+      input.email, input.button {
+        display: inline-block;
+      }
+      input.email {
+        width: 70%;
+      }
+      input.button {
+        width: 20%;
+      }
+    }
+  }
+}
