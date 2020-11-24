@@ -3,6 +3,7 @@ layout: single
 categories: ideas
 excerpt: >
   I found it very time consuming to test out the last 2 ideas, and I'm wondering if there's a quicker way to do that specifically for testing out product ideas. That's what I'll be testing with this experiment.
+canonical_url: https://yaz.in/p/the-validator/
 ---
 
 The [GForms's Landing page]({% post_url 2017-06-29-the-gforms-idea %}) took me about 10 days to build, launch and validate — most of it spent on the damn front-end making sure everything looked OK on mobile and desktop. Once I ran the experiment, within 24 hours I knew it was not going to fly. The question is, could I have finished it sooner?

@@ -5,6 +5,7 @@ excerpt: >
   This isn't a particular idea, but a possibility. I've had very little experience with real
   estate, but I'm sure there's a way to make it at least 10x better, either for the buyer or
   for the agents themselves.
+canonical_url: https://yaz.in/p/the-real-estate-idea/
 ---
 
 This is **not** a well-defined idea, and I still don't know what to test &mdash; or indeed, whether there's anything to do here. I do know that people in Bahrain buy &amp; sell real-estate the same way they have in the pre-web era. The only difference is that now there's a bunch of websites (really, not very different than catalogs, or newspaper classifieds) that advertise properties. The transaction is always initiated via a phone call, followed by a site visit.

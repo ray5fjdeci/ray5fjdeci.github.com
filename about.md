@@ -5,6 +5,7 @@ permalink: /about/
 excerpt: >
   Yazin Alirhayim is an entrepreneur turned Product Manager. This site covers, in 
   excruciating detail, how we creates a SaaS business from scratch.
+canonical_url: https://yaz.in/about/
 ---
 Hey there. The name's Yazin Alirhayim, and I'm trying to figure out this SaaS thing. 
 

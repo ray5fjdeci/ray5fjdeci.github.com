@@ -3,6 +3,7 @@ layout: single
 excerpt: >
   The first step is finding an idea, one of the most intimidating parts of this whole process. In
   this post, I describe how I go about tackling this
+canonical_url: https://yaz.in/p/finding-an-idea/
 ---
 # Getting an idea
 

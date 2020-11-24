@@ -6,6 +6,7 @@ redirect_from:
   - /list-of-ideas
 excerpt: >
   Having talked about how to think about ideas, the next step is to actually list them all down. That's what I'm doing in this post.
+canonical_url: https://yaz.in/ideas/
 ---
 Having [talked about how to think about ideas]({% post_url 2017-06-25-finding-an-idea %}), the natural next step is to list them down in one place. That's what this page is all about. It includes the results of both thought processes (that I described in the previous post).
 
